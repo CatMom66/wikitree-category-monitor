@@ -29,12 +29,12 @@ jobs:
       - name: Check WikiTree categories
         run: python monitor.py
 
-      - name: Save baseline and RSS
+      - name: Save baselines and RSS
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/brandenburg.json docs/brandenburg.xml
+          git add data/ docs/
           if ! git diff --cached --quiet; then
-            git commit -m "Update Brandenburg category monitor"
+            git commit -m "Update Preußen category monitors"
             git push
           fi
