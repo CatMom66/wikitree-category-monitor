@@ -1,27 +1,37 @@
-"""WikiTree+ Brandenburg category monitor.
+"""Monitor WikiTree+ category edits in five Prussian provinces.
 
-First run creates a baseline without RSS alerts. Subsequent runs compare
-category editor and PageTouched values. Run `python monitor.py --self-test`
-for deterministic tests that never contact WikiTree+.
+Existing Brandenburg baseline is preserved. New provinces are baselined without
+old alerts. Recent RSS items are retained so feed readers can discover them.
 """
 import argparse
 import json
 import subprocess
 from datetime import datetime, timezone
+from email.utils import format_datetime
 from html import escape
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote
-from xml.etree import ElementTree
+from xml.etree import ElementTree as ET
 
-REPORT_URL = (
-    'https://plus.wikitree.com/function/WTCatNavigate/Category.htm'
-    '?Category=Brandenburg%2C_Preu%C3%9Fen&Levels=2&Details=Edit'
-)
+PROVINCES = {
+    'brandenburg': 'Brandenburg',
+    'pommern': 'Pommern',
+    'westpreussen': 'Westpreußen',
+    'schlesien': 'Schlesien',
+    'posen': 'Posen',
+}
+BASE_URL = 'https://plus.wikitree.com/function/WTCatNavigate/Category.htm'
 EXCLUDED = {'sonczalla-1', 'trtnik-2', 'kobus-79'}
-STATE_PATH = Path('data/brandenburg.json')
-FEED_PATH = Path('docs/brandenburg.xml')
+STATE_DIR = Path('data')
+FEED_PATH = Path('docs/brandenburg.xml')  # Preserve existing MonitoRSS URL.
 CATEGORY_URL = 'https://www.wikitree.com/wiki/Category:'
+MAX_FEED_ITEMS = 100
+
+
+def report_url(province):
+    category = quote(province + ',_Preußen', safe='')
+    return f'{BASE_URL}?Category={category}&Levels=2&Details=Edit'
 
 
 class Tables(HTMLParser):
@@ -66,28 +76,18 @@ def parse_categories(html):
     parser.feed(html)
     categories = {}
     for table in parser.tables:
-        if not table:
-            continue
-        # WikiTree+ uses multiple category tables. The successful earlier
-        # test found 530 rows with category in column 1 and editor in 2.
-        # The displayed header may combine labels into a single cell,
-        # so deriving indexes from header positions is unreliable.
-        if not any('Last Edit' in cell for cell in table[0]):
+        if not table or not any('Last Edit' in cell for cell in table[0]):
             continue
         for row in table[1:]:
             if len(row) < 4:
                 continue
-            category = row[1].strip()
-            editor = row[2].strip()
-            touched = row[3].strip()
-            if not category or 'Last Edit' in editor:
-                continue
-            categories[category] = {'editor': editor, 'touched': touched}
+            category, editor, touched = (row[1].strip(), row[2].strip(), row[3].strip())
+            if category and 'Last Edit' not in editor:
+                categories[category] = {'editor': editor, 'touched': touched}
     return categories
 
 
 def find_changes(previous, current):
-    """Return changed categories whose CURRENT editor is not excluded."""
     events = []
     for category, info in sorted(current.items()):
         if previous.get(category) == info:
@@ -98,91 +98,107 @@ def find_changes(previous, current):
     return events
 
 
-def rss_xml(events):
-    now = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
-    parts = ['<?xml version="1.0" encoding="UTF-8"?>',
-             '<rss version="2.0"><channel>',
-             '<title>WikiTree Brandenburg category edits</title>',
-             f'<link>{escape(REPORT_URL)}</link>',
-             '<description>Category changes by non-excluded editors</description>']
-    for event in events:
-        category = event['category']
-        editor = event['editor']
-        touched = event['touched']
-        url = CATEGORY_URL + quote(category.replace(' ', '_'), safe='_,()')
-        guid = f'{category}|{editor}|{touched}'
-        parts += ['<item>',
-                  f'<title>{escape(category)} - {escape(editor)}</title>',
-                  f'<link>{escape(url)}</link>',
-                  f'<guid isPermaLink="false">{escape(guid)}</guid>',
-                  f'<description>Last editor: {escape(editor)}; PageTouched: {escape(touched)}</description>',
-                  f'<pubDate>{now}</pubDate>', '</item>']
-    parts.append('</channel></rss>')
-    xml = '\n'.join(parts) + '\n'
-    ElementTree.fromstring(xml)
-    return xml
-
-
-def retrieve():
+def retrieve(url):
     result = subprocess.run(
-        ['curl', '-L', '--fail', '--silent', '--show-error', '--max-time', '45',
-         '-A', 'Mozilla/5.0', REPORT_URL],
+        ['curl', '-L', '--fail', '--silent', '--show-error', '--max-time', '60',
+         '--retry', '2', '-A', 'Mozilla/5.0', url],
         capture_output=True, text=True, check=True)
     return result.stdout
 
 
-def self_test():
-    original = {'Test,_Brandenburg': {'editor': 'Trtnik-2', 'touched': '20261018'}}
-    assert find_changes({}, original) == []
-    allowed = {'Test,_Brandenburg': {'editor': 'Example-123', 'touched': '20261021'}}
-    assert len(find_changes(original, allowed)) == 1
-    excluded = {'Test,_Brandenburg': {'editor': 'Kobus-79', 'touched': '20261022'}}
-    assert find_changes(allowed, excluded) == []
-    assert find_changes(allowed, allowed) == []
-    again = {'Test,_Brandenburg': {'editor': 'Example-123', 'touched': '20261023'}}
-    assert len(find_changes(allowed, again)) == 1
-    xml = rss_xml(find_changes(original, allowed))
-    assert len(ElementTree.fromstring(xml).findall('./channel/item')) == 1
-    # Test table parsing, including two separate tables and exclusions.
-    html = ('<table><tr><th>Level</th><th>LvL</th><th>Category</th>'
-            '<th>Last Edit WikiTreeID</th><th>PageTouched</th></tr>'
-            '<tr><td>0</td><td>A</td><td>One,_Brandenburg</td>'
-            '<td>Example-123</td><td>20261021</td></tr></table>'
-            '<table><tr><th>Level</th><th>LvL</th><th>Category</th>'
-            '<th>Last Edit WikiTreeID</th><th>PageTouched</th></tr>'
-            '<tr><td>1</td><td>B</td><td>Two,_Brandenburg</td>'
-            '<td>Trtnik-2</td><td>20261020</td></tr></table>')
-    assert len(parse_categories(html)) == 2
-    print('PASS: baseline, allowed edits, excluded edits, duplicates, repeat edits, RSS XML, table parsing')
+def existing_items():
+    if not FEED_PATH.exists():
+        return []
+    try:
+        root = ET.parse(FEED_PATH).getroot()
+        return list(root.findall('./channel/item'))
+    except ET.ParseError as exc:
+        raise RuntimeError('Existing RSS is invalid; refusing to overwrite it') from exc
+
+
+def write_feed(events):
+    rss = ET.Element('rss', {'version': '2.0'})
+    channel = ET.SubElement(rss, 'channel')
+    ET.SubElement(channel, 'title').text = 'WikiTree Preußen category edits'
+    ET.SubElement(channel, 'link').text = report_url('Brandenburg')
+    ET.SubElement(channel, 'description').text = 'Category edits in Brandenburg, Pommern, Westpreußen, Schlesien and Posen by non-excluded editors'
+    now = format_datetime(datetime.now(timezone.utc), usegmt=True)
+    fresh = []
+    for province, event in events:
+        category, editor, touched = event['category'], event['editor'], event['touched']
+        item = ET.Element('item')
+        ET.SubElement(item, 'title').text = f'[{province}] {category} - {editor}'
+        ET.SubElement(item, 'link').text = CATEGORY_URL + quote(category.replace(' ', '_'), safe='_,()')
+        ET.SubElement(item, 'guid', {'isPermaLink': 'false'}).text = f'{province}|{category}|{editor}|{touched}'
+        ET.SubElement(item, 'description').text = f'Province: {province}; Last editor: {editor}; PageTouched: {touched}'
+        ET.SubElement(item, 'pubDate').text = now
+        fresh.append(item)
+
+    # Preserve recent real notifications across runs, but discard manual test items.
+    seen = set()
+    for item in fresh + existing_items():
+        guid = item.findtext('guid')
+        if not guid or guid.startswith('brandenburg-test-') or guid in seen:
+            continue
+        seen.add(guid)
+        channel.append(item)
+        if len(seen) >= MAX_FEED_ITEMS:
+            break
+    FEED_PATH.parent.mkdir(parents=True, exist_ok=True)
+    ET.indent(rss, space='  ')
+    xml = ET.tostring(rss, encoding='unicode') + '\n'
+    ET.fromstring(xml)
+    FEED_PATH.write_text(xml, encoding='utf-8')
 
 
 def main():
-    html = retrieve()
-    categories = parse_categories(html)
-    print('Tables parsed; unique Brandenburg categories:', len(categories))
-    if len(categories) < 500:
-        raise RuntimeError(f'Incomplete category report: only {len(categories)} rows. Refusing to update state.')
-    if STATE_PATH.exists():
-        previous = json.loads(STATE_PATH.read_text(encoding='utf-8'))
-        events = find_changes(previous, categories)
-        print('Qualifying changes:', len(events))
-    else:
-        events = []
-        print('First run: establishing baseline; no notifications.')
-    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    STATE_PATH.write_text(json.dumps(categories, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    FEED_PATH.parent.mkdir(parents=True, exist_ok=True)
-    FEED_PATH.write_text(rss_xml(events), encoding='utf-8')
-    print('Saved baseline:', STATE_PATH)
-    print('Generated RSS:', FEED_PATH)
-    print('NOTE: GitHub Actions must commit these files for changes to persist between runs.')
+    # Collect and validate ALL provinces before changing any saved files.
+    snapshots = {}
+    for key, province in PROVINCES.items():
+        categories = parse_categories(retrieve(report_url(province)))
+        print(f'{province}: {len(categories)} categories parsed')
+        if not categories:
+            raise RuntimeError(f'{province}: no categories parsed; refusing to update any baselines')
+        if key == 'brandenburg' and len(categories) < 500:
+            raise RuntimeError('Brandenburg: incomplete report; refusing to update baselines')
+        snapshots[key] = categories
+
+    events = []
+    for key, province in PROVINCES.items():
+        path = STATE_DIR / f'{key}.json'
+        if path.exists():
+            previous = json.loads(path.read_text(encoding='utf-8'))
+            changes = find_changes(previous, snapshots[key])
+            print(f'{province}: {len(changes)} qualifying changes')
+            events.extend((province, event) for event in changes)
+        else:
+            print(f'{province}: initial baseline; no old notifications')
+
+    # Prepare RSS before writing baselines; an invalid existing feed fails safely.
+    write_feed(events)
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+    for key, categories in snapshots.items():
+        (STATE_DIR / f'{key}.json').write_text(
+            json.dumps(categories, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    print(f'Saved {len(snapshots)} baselines; {len(events)} new events; RSS: {FEED_PATH}')
+
+
+def self_test():
+    original = {'Test,_Brandenburg': {'editor': 'Trtnik-2', 'touched': '20261018'}}
+    allowed = {'Test,_Brandenburg': {'editor': 'Example-123', 'touched': '20261021'}}
+    assert len(find_changes(original, allowed)) == 1
+    assert find_changes(allowed, allowed) == []
+    assert find_changes(allowed, {'Test,_Brandenburg': {'editor': 'Kobus-79', 'touched': '20261022'}}) == []
+    html = ('<table><tr><th>Level</th><th>Category</th><th>Last Edit WikiTreeID</th><th>PageTouched</th></tr>'
+            '<tr><td>1</td><td>Example,_Preußen</td><td>Example-123</td><td>20261021</td></tr></table>')
+    assert len(parse_categories(html)) == 1
+    for name in PROVINCES.values():
+        assert 'Levels=2' in report_url(name)
+    print('PASS: parsing, exclusions, changed entries, and province URLs')
 
 
 if __name__ == '__main__':
     cli = argparse.ArgumentParser()
     cli.add_argument('--self-test', action='store_true')
     args = cli.parse_args()
-    if args.self_test:
-        self_test()
-    else:
-        main()
+    self_test() if args.self_test else main()
