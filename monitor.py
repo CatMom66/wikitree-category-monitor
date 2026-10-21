@@ -68,23 +68,19 @@ def parse_categories(html):
     for table in parser.tables:
         if not table:
             continue
-        header = [c.lower().replace(' ', '') for c in table[0]]
-        # The WikiTree+ Details=Edit report uses columns:
-        # Level, LvL, category, Last Edit WikiTreeID, PageTouched, ...
-        editor_col = next((i for i, c in enumerate(header) if 'lasteditwikitreeid' in c), None)
-        if editor_col is None:
-            continue
-        category_col = editor_col - 1
-        touched_col = editor_col + 1
-        if category_col < 0:
+        # WikiTree+ uses multiple category tables. The successful earlier
+        # test found 530 rows with category in column 1 and editor in 2.
+        # The displayed header may combine labels into a single cell,
+        # so deriving indexes from header positions is unreliable.
+        if not any('Last Edit' in cell for cell in table[0]):
             continue
         for row in table[1:]:
-            if len(row) <= touched_col:
+            if len(row) < 4:
                 continue
-            category = row[category_col].strip()
-            editor = row[editor_col].strip()
-            touched = row[touched_col].strip()
-            if not category or category.lower().startswith('category'):
+            category = row[1].strip()
+            editor = row[2].strip()
+            touched = row[3].strip()
+            if not category or 'Last Edit' in editor:
                 continue
             categories[category] = {'editor': editor, 'touched': touched}
     return categories
