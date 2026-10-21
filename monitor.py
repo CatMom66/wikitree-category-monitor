@@ -68,41 +68,52 @@ parser.feed(result.stdout)
 
 print("Tables found:", len(parser.tables))
 
+total = 0
+matches = []
+seen = set()
+
 for table in parser.tables:
     if not table:
         continue
 
     header = table[0]
-    editor_col = next(
-        (i for i, value in enumerate(header)
-         if "Last Edit WikiTreeID" in value),
-        None
-    )
 
-    if editor_col is None:
+    if not any("Last Edit" in cell for cell in header):
         continue
 
-    print("Category table found.")
-    print("Total data rows:", len(table) - 1)
-
-    matches = []
+    # The editor is the third column (index 2).
+    editor_col = 2
 
     for row in table[1:]:
         if len(row) <= editor_col:
             continue
 
+        category = row[1].strip()
         editor = row[editor_col].strip()
+
+        # Ignore repeated headers.
+        if "Last Edit" in editor:
+            continue
+
+        # Avoid counting duplicate category rows.
+        if category in seen:
+            continue
+
+        seen.add(category)
+        total += 1
 
         if not editor or editor.lower() in EXCLUDED:
             continue
 
-        matches.append(row)
+        matches.append((category, editor))
 
-    print("Rows edited by other members:", len(matches))
+print("Total unique categories:", total)
+print("Categories edited by other members:", len(matches))
 
-    for row in matches[:20]:
-        print(" | ".join(row[:4]))
+for category, editor in matches[:30]:
+    print(category, "|", editor)
 
-    break
-else:
-    raise RuntimeError("Could not find the category editor table.")
+if total < 500:
+    raise RuntimeError(
+        f"Only {total} categories found; expected approximately 530."
+    )
