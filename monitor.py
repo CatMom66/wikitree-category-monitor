@@ -1,119 +1,96 @@
+"""WikiTree+ category snapshot comparison and RSS generator.
 
+First live run creates a baseline without generating historical alerts.
+Run --self-test to exercise change detection entirely offline.
+"""
+import argparse
+import json
 import subprocess
+from datetime import datetime, timezone
+from email.utils import format_datetime
+from html import escape
 from html.parser import HTMLParser
+from pathlib import Path
+from urllib.parse import quote
 
-URL = (
-    "https://plus.wikitree.com/function/WTCatNavigate/Category.htm"
-    "?Category=Brandenburg%2C_Preu%C3%9Fen&Levels=2&Details=Edit"
-)
-
-EXCLUDED = {"sonczalla-1", "trtnik-2", "kobus-79"}
+URL = ('https://plus.wikitree.com/function/WTCatNavigate/Category.htm'
+       '?Category=Brandenburg%2C_Preu%C3%9Fen&Levels=2&Details=Edit')
+EXCLUDED = {'sonczalla-1', 'trtnik-2', 'kobus-79'}
+SNAPSHOT = Path('data/brandenburg.json')
+FEED = Path('docs/brandenburg.xml')
+BASE_URL = 'https://www.wikitree.com/wiki/Category:'
 
 
 class TableParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.tables = []
-        self.table_depth = 0
-        self.current_table = None
-        self.current_row = None
-        self.current_cell = None
+        self.depth = 0
+        self.table = None
+        self.row = None
+        self.cell = None
 
     def handle_starttag(self, tag, attrs):
-        if tag == "table":
-            if self.table_depth == 0:
-                self.current_table = []
-            self.table_depth += 1
-        elif self.table_depth == 1 and tag == "tr":
-            self.current_row = []
-        elif (
-            self.table_depth == 1
-            and tag in ("td", "th")
-            and self.current_row is not None
-        ):
-            self.current_cell = []
+        if tag == 'table':
+            if self.depth == 0:
+                self.table = []
+            self.depth += 1
+        elif self.depth == 1 and tag == 'tr':
+            self.row = []
+        elif self.depth == 1 and tag in ('td', 'th') and self.row is not None:
+            self.cell = []
 
     def handle_data(self, data):
-        if self.current_cell is not None:
-            self.current_cell.append(data)
+        if self.cell is not None:
+            self.cell.append(data)
 
     def handle_endtag(self, tag):
-        if tag in ("td", "th") and self.current_cell is not None:
-            self.current_row.append(
-                " ".join("".join(self.current_cell).split())
-            )
-            self.current_cell = None
-        elif tag == "tr" and self.current_row is not None:
-            self.current_table.append(self.current_row)
-            self.current_row = None
-        elif tag == "table" and self.table_depth:
-            self.table_depth -= 1
-            if self.table_depth == 0:
-                self.tables.append(self.current_table)
-                self.current_table = None
+        if tag in ('td', 'th') and self.cell is not None:
+            self.row.append(' '.join(''.join(self.cell).split()))
+            self.cell = None
+        elif tag == 'tr' and self.row is not None:
+            self.table.append(self.row)
+            self.row = None
+        elif tag == 'table' and self.depth:
+            self.depth -= 1
+            if self.depth == 0:
+                self.tables.append(self.table)
+                self.table = None
 
 
-result = subprocess.run(
-    [
-        "curl", "-L", "--fail", "--silent", "--show-error",
-        "--max-time", "45", "-A", "Mozilla/5.0", URL
-    ],
-    capture_output=True,
-    text=True,
-    check=True
-)
-
-parser = TableParser()
-parser.feed(result.stdout)
-
-print("Tables found:", len(parser.tables))
-
-total = 0
-matches = []
-seen = set()
-
-for table in parser.tables:
-    if not table:
-        continue
-
-    header = table[0]
-
-    if not any("Last Edit" in cell for cell in header):
-        continue
-
-    # The editor is the third column (index 2).
-    editor_col = 2
-
-    for row in table[1:]:
-        if len(row) <= editor_col:
+def parse_categories(html):
+    parser = TableParser()
+    parser.feed(html)
+    categories = {}
+    for table in parser.tables:
+        if not table or not any('Last Edit' in c for c in table[0]):
             continue
+        for row in table[1:]:
+            if len(row) < 4 or 'Last Edit' in row[2]:
+                continue
+            category, editor, touched = row[1].strip(), row[2].strip(), row[3].strip()
+            if category:
+                categories[category] = {'editor': editor, 'touched': touched}
+    return categories
 
-        category = row[1].strip()
-        editor = row[editor_col].strip()
 
-        # Ignore repeated headers.
-        if "Last Edit" in editor:
+def detect_changes(old, new):
+    """Return only newly seen or changed categories with non-excluded last editors."""
+    events = []
+    for category, details in sorted(new.items()):
+        before = old.get(category)
+        if before == details or details['editor'].lower() in EXCLUDED or not details['editor']:
             continue
+        events.append({'category': category, **details})
+    return events
 
-        # Avoid counting duplicate category rows.
-        if category in seen:
-            continue
 
-        seen.add(category)
-        total += 1
-
-        if not editor or editor.lower() in EXCLUDED:
-            continue
-
-        matches.append((category, editor))
-
-print("Total unique categories:", total)
-print("Categories edited by other members:", len(matches))
-
-for category, editor in matches[:30]:
-    print(category, "|", editor)
-
-if total < 500:
-    raise RuntimeError(
-        f"Only {total} categories found; expected approximately 530."
-    )
+def make_rss(events):
+    now = datetime.now(timezone.utc)
+    parts = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<rss version="2.0"><channel>',
+             '<title>WikiTree Brandenburg category edits</title>',
+             '<link>' + escape(URL) + '</link>',
+             '<description>Changes to Brandenburg categories by non-excluded editors</description>']
+    for e in events:
+        link = BASE_URL + quote(e['category'], safe=',_')
