@@ -1,23 +1,34 @@
-name: Test WikiTree Category Monitor
+import subprocess
 
-on:
-  workflow_dispatch:
+url = (
+    "https://plus.wikitree.com/function/WTCatNavigate/Category.htm"
+    "?Category=Brandenburg%2C_Preu%C3%9Fen&Levels=2&Details=Edit"
+)
 
-permissions:
-  contents: read
+result = subprocess.run(
+    [
+        "curl",
+        "-L",
+        "--fail",
+        "--silent",
+        "--show-error",
+        "--max-time", "45",
+        "-A", "Mozilla/5.0",
+        url
+    ],
+    capture_output=True,
+    text=True
+)
 
-jobs:
-  test:
-    runs-on: ubuntu-latest
+print("curl exit code:", result.returncode)
 
-    steps:
-      - name: Get repository files
-        uses: actions/checkout@v4
+if result.returncode != 0:
+    print("Connection error:", result.stderr)
+    raise SystemExit(1)
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+html = result.stdout
 
-      - name: Test WikiTree report access
-        run: python monitor.py
+print("Report retrieved successfully.")
+print("Characters received:", len(html))
+print("Contains Brandenburg:", "Brandenburg" in html)
+print("Contains Last Edit column:", "Last Edit" in html)
