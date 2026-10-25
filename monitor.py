@@ -130,7 +130,7 @@ def write_feed(events):
         ET.SubElement(item, 'title').text = f'[{province}] {category} - {editor}'
         ET.SubElement(item, 'link').text = CATEGORY_URL + quote(category.replace(' ', '_'), safe='_,()')
         ET.SubElement(item, 'guid', {'isPermaLink': 'false'}).text = f'{province}|{category}|{editor}|{touched}'
-                category_link = CATEGORY_URL + quote(category.replace(' ', '_'), safe='_,()')
+        category_link = CATEGORY_URL + quote(category.replace(' ', '_'), safe='_,()')
         ET.SubElement(item, 'description').text = (
             f'Province: {province}; Last editor: {editor}; PageTouched: {touched}\n'
             f'Open WikiTree category: {category_link}'
