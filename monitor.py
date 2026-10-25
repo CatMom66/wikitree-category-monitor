@@ -11,7 +11,7 @@ from email.utils import format_datetime
 from html import escape
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, unquote, urlparse
 from xml.etree import ElementTree as ET
 
 PROVINCES = {
@@ -42,6 +42,7 @@ class Tables(HTMLParser):
         self.table = None
         self.row = None
         self.cell = None
+        self.category_link = None
 
     def handle_starttag(self, tag, attrs):
         if tag == 'table':
@@ -52,6 +53,11 @@ class Tables(HTMLParser):
             self.row = []
         elif self.depth == 1 and tag in ('td', 'th') and self.row is not None:
             self.cell = []
+            self.category_link = None
+        elif tag == 'a' and self.cell is not None:
+            href = dict(attrs).get('href', '')
+            if 'wikitree.com/wiki/Category:' in href:
+                self.category_link = href
 
     def handle_data(self, data):
         if self.cell is not None:
@@ -59,7 +65,10 @@ class Tables(HTMLParser):
 
     def handle_endtag(self, tag):
         if tag in ('td', 'th') and self.cell is not None:
-            self.row.append(' '.join(''.join(self.cell).split()))
+            cell_text = ' '.join(''.join(self.cell).split())
+            if self.category_link:
+                cell_text = self.category_link
+            self.row.append(cell_text)
             self.cell = None
         elif tag == 'tr' and self.row is not None:
             self.table.append(self.row)
@@ -82,19 +91,37 @@ def parse_categories(html):
             if len(row) < 4:
                 continue
             category, editor, touched = (row[1].strip(), row[2].strip(), row[3].strip())
+            if '/wiki/Category:' in category:
+                category = unquote(
+                    category.split('/wiki/Category:', 1)[1])
             if category and 'Last Edit' not in editor:
                 categories[category] = {'editor': editor, 'touched': touched}
     return categories
 
-
+def normalize_category(category):
+    return category.replace(',_', ',').replace('_', ' ').strip()
 def find_changes(previous, current):
     events = []
+    previous_normalized = {
+        normalize_category(name): info
+        for name, info in previous.items()
+    }
+
     for category, info in sorted(current.items()):
-        if previous.get(category) == info:
+        old_info = previous.get(category)
+
+        if old_info is None:
+            old_info = previous_normalized.get(
+                normalize_category(category)
+            )
+
+        if old_info == info:
             continue
         if not info['editor'] or info['editor'].lower() in EXCLUDED:
             continue
+
         events.append({'category': category, **info})
+
     return events
 
 
@@ -167,6 +194,19 @@ def main():
             raise RuntimeError('Brandenburg: incomplete report; refusing to update baselines')
         snapshots[key] = categories
 
+   # One-time refresh after correcting category name extraction.
+    # Preserve existing RSS items without generating false alerts.
+    if Path('data/category_links_migrated.flag').exists() is False:
+        write_feed([])
+        STATE_DIR.mkdir(parents=True, exist_ok=True)
+        for key, categories in snapshots.items():
+            (STATE_DIR / f'{key}.json').write_text(
+                json.dumps(categories, ensure_ascii=False, indent=2) + '\n',
+                encoding='utf-8'
+            )
+        Path('data/category_links_migrated.flag').write_text('done\n')
+        print('Category baselines refreshed without alerts')
+        return
     events = []
     for key, province in PROVINCES.items():
         path = STATE_DIR / f'{key}.json'
