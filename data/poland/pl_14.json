@@ -1,0 +1,2566 @@
+{
+  "Powiaty,_województwo_lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230223"
+  },
+  "Lublin_miasto-powiat,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260821"
+  },
+  "Abramowice_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Cmentarze_miasta_Lublin": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Głusk_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Kalinowszczyzna_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Kośminek_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Sławin_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Sławinek_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Śródmieście_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Wrotków_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Zemborzyce_(Lublin_miasto-powiat),_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260325"
+  },
+  "Powiat_bialski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Biała_Podlaska,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260523"
+  },
+  "Bielany,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Błotków_Duży,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Derło,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Dobryń_Duży,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Dobrynka,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Gnojno,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Hołodnica,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Janów_Podlaski,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Kalichowszczyzna,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Kodeń,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Komarno,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251106"
+  },
+  "Kożanówka,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Krzyczew,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Łobaczew_Duży,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Łomazy,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Międzyrzec_Podlaski,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260523"
+  },
+  "Ostrów,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Pratulin,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Rogoźnica,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Roskosz,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Samowicze,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Sitnik,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Szostaki,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Terespol,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wiski,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wisznice,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Woroniec,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Zaczopki,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Zakanale,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Zawadki,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Żerocin,_Biała,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Powiat_biłgorajski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Babice,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Biłgoraj,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260523"
+  },
+  "Biszcza,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chmielek,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czernięcin_Główny,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dorbozy,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Frampol,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Goraj,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Górecko_Stare,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Hamernia,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jasiennik_Stary,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Józefów,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kamionka,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Korczów,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Lipiny_Górne-Borowina,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Lipowiec,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Luchów,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łukowa,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdan_Kasztelański,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Olszanka,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Potok_Górny,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rakówka,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rzeczyce,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stara_Wieś,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szostaki,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tarnogród,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Teodorówka,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Turobin,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Abramowska,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żabno,_Biłgoraj,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_chełmski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Aleksandrówka,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Białopole,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bukowa_Mała,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chełm,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czułczyce,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dorohusk,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dubienka,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gotówka,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Husynne,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Huta_(gmina_Wojsławice),_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janów,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janowica,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kamień,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kanie,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Karolinów,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kicin,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kumów_Majoracki,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Leśniczówka,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Liszno,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ludwinów,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Malinówka,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mogilnica,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Natalin,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pławanice,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pogranicze,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rejowiec,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ruda,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rudka_(gmina_Chełm),_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sawin,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sielec,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Staszyce,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stefanów,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Strzelce,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tomaszówka,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Trościanka,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tytusin,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wojciechów,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wojsławice,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wola_Korybutowa_Pierwsza,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Kańska,_Chełm,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_hrubieszowski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Bereżnica,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chłopiatyn,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Chyżowice,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dłużniów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Dołhobyczów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gołębie,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Horodło,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Hrubieszów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260624"
+  },
+  "Hulcze,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Husynne,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kościaszyn,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Kryłów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Liski,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Liwcze,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Łuszków,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Masłomęcz,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mołodiatycze,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Myców,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Oszczów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Przewodów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Rozkoszówka,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sahryń-Kolonia,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sulimów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Werbkowice,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wilków,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Winniki,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Wiszniów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Witków,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Wyżłów,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231112"
+  },
+  "Żabcze,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231216"
+  },
+  "Zaborce,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żniatyn,_Hrubieszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231216"
+  },
+  "Powiat_janowski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Batorz,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Biała_Pierwsza,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chrzanów,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dąbrowica,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Godziszów,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janów_Lubelski,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kawęczyn,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kocudza_Druga,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kocudza_Górna,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kocudza_Pierwsza,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krzemień_Pierwszy,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Lute,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Modliborzyce,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Momoty_Górne,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Osinki,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Otrocz,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Potoczek,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Potok-Stany,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Potok_Wielki,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ruda,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Słupie,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stojeszyn_Pierwszy,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wierzchowiska_Pierwsze,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wola_Studzieńska,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wolica_Pierwsza,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Ratajska,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zarajec,_Janów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_krasnostawski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Adamówka,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20261021"
+  },
+  "Borówek,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bzowiec,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chłaniów,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chorupnik,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czajki,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dąbie,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Góry,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gorzków,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Huta,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Izbica,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kozieniec,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krasnystaw,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kraśniczyn,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ksawerówka,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łopiennik_Górny,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20261021"
+  },
+  "Mościska,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Surhów,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tarnogóra,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tarzymiechy_Pierwsze,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Widniówka,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wierzbica,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zastawie-Kolonia,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żółkiew-Kolonia,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żółkiewka,_Krasnystaw,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_kraśnicki,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Anielin,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Annopol,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Baraki,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bęczyn,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Blinów_Pierwszy,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Boby-Księże,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Boby-Wieś,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brzozówka,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dzierzkowice-Góry,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gościeradów_Plebański,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Huta_(gmina_Annopol),_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Huta_Józefów,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Józefin,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kraśnik,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Księżomierz,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Liśnik_Duży,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ludmiłówka,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łychów_Gościeradowski,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łychów_Szlachecki,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdan-Grabina,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdan-Obleszcze,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Moniaki,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Olbięcin,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Polichna,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Popkowice,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rzeczyca_Ziemiańska,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Skorczyce,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Słodków_Drugi,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sosnowa_Wola,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Suchynia,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sulów,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Trzydnik_Duży-Kolonia,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Trzydnik_Duży,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Urzędów,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wilkołaz,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zakrzówek,_Kraśnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_łęczyński,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Ciechanki,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Cyców,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dratów,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Garbatówka,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Godziembów,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Grądy,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janowica,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jasieniec,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kaniwola,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kijany,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łęczna,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Malinówka,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Małków,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Milejów,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Puchaczów,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251216"
+  },
+  "Rozpłucie_Pierwsze,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stary_Stręczyn,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stefanów,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Świerszczów,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Nadrybska,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zaróbka,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zawieprzyce,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zosin,_Łęczna,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_lubartowski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Berejów,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brzeźnica_Bychawska,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brzeźnica_Książęca,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brzostówka,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czerniejów,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dębica,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Firlej,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Glinnik,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jeziorzany,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kock,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kolonia_Giżyce,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kozłówka,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Lubartów,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łucka,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łukówiec,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Meszno,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Michów,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251106"
+  },
+  "Nowa_Wola,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ostrów_Lubelski,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Przypisówka,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rudzienko,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Samoklęski,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Serniki,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sobolew,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stary_Antonin,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Trójnia,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wielkie,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wielkolas,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wola_Sernicka-Kolonia,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Mieczysławska,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Stara_Kijańska,_Lubartów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_lubelski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260324"
+  },
+  "Bełżyce,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bogucin,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Borków,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Borkowizna_(gmina_Niedrzwica_Duża),_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Borkowizna_(gmina_Strzyżewice),_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Boża_Wola,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bychawa,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bychawka_Pierwsza,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dylążki,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dys,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gałęzów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Garbów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Giełczew,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Góra,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gutanów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Guzówka,_Wysokie,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jastków,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kierz,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kolonia_Kiełczewice_Dolne,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Konopnica,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krasienin,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krężnica_Jara,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krzczonów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Leonów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Leśniczówka,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łopiennik,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Meszno,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Miesiące,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Miłocin_(gmina_Jastków),_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nasutów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Niemce,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Osmolice,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Osowa,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Palikije,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Piotrków_Pierwszy,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Skawinek,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sługocin,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stare_Wierzchowiska,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Strzeszkowice_Małe,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Świdnik_Duży,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260430"
+  },
+  "Targowisko,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tomaszowice-Kolonia,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tomaszowice,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wilczopole-Kolonia,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wilczopole,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wojciechów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wola_Niemiecka,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wola_Sławińska,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wronów,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żabia_Wola_(gmina_Głusk),_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żabia_Wola_(gmina_Strzyżewice),_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zagrody,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żuków_Pierwszy,_Lublin,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_łukowski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Aleksandrówka,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Gołaszyn,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Gułów,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Guzówka_(gmina_Stoczek_Łukowski),_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Łazy,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Łuków,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Obelniki,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Poznań,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Role,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Ryżki,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Serokomla,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Suchocin,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Suleje,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Świdry,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Trzebieszów,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Tuchowicz,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wola_Okrzejska,_Łuków,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Powiat_opolski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Antonówka,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Basonia,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bielsko,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Boiska-Kolonia,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Borów,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brzozowa,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chodel,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chruślanki_Mazanowskie,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chruślina,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Godów,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Idalin,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Józefów_nad_Wisłą,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Karczmiska,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kłodnica,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kluczkowice,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Koło,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kraczewice_Prywatne,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kręciszówka,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łaziska-Kolonia,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Lubomirka,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdany,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mazanów,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nieszawa,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Niezabitów,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Opole_Lubelskie,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pielgrzymka,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Prawno,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rybitwy,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sewerynówka,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szczekarków,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wilków,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wrzelowiec,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zakrzów,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zarudki,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zastów_Karczmiski,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zastów_Polanowski,_Opole,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_parczewski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Antopol,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Chmielów,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Cichostów,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260128"
+  },
+  "Juliopol,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Kolano,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Opole,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Parczew,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Rudno,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Sewerynówka,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Tyśmienica,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Zieleniec,_Parczew,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Powiat_puławski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230807"
+  },
+  "Baranów,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bochotnica,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brześce,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Celejów,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czołna,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janów,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janowice,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janowiec,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Karmanowice,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kazimierz_Dolny,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Klementowice,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Klin,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Końskowola,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kurów,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Leokadiów,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łukawka,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Markuszów,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Oblasy,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Piotrowice,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Puławy,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rzeczyca,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sosnów,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wąwolnica,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Witoszyn,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Włostowice-Puławy,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żyrzyn,_Puławy,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_radzyński,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Bedlno,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Bezwola,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Czemierniki,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Klębów,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Kolembrody,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Przegaliny_Duże,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Radzyń_Podlaski,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Rozwadów,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Sętki,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Sokule,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Suchowola,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Ulan_Duży,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wiski,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wohyń,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wola_Osowińska,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Żakowola_Radzyńska,_Radzyń,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Powiat_rycki,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Bobrowniki,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brusów,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Brzeźce,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Dęblin,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Irena-Dęblin,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kłoczew,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Nowe_Zadybie,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Potok,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Ryki,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Stare_Zadybie,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Stężyca,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Stryj,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Zosin,_Ryki,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_świdnicki,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20240104"
+  },
+  "Biskupice,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bystrzejowice_Trzecie,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Częstoborowice,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dorohucza,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gardzienice,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janowice,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kozice_Górne,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krzesimów,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdan_Kozic_Górnych,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mełgiew,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Minkowice,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Piaski,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pilaszkowice_Pierwsze,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rybczewice_Drugie,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rybczewice_Pierwsze,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stryjno_Pierwsze,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Świdnik,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Trawniki,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Trzeszkowice,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zygmuntów,_Świdnik,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_tomaszowski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Bełżec,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Brzeziny,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Budynin,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Chyże,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250828"
+  },
+  "Ciotusza_Stara,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dub,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gródek,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Grodysławice,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Hrebenne,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Huta_Lubycka,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Jarczów,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kniazie,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Kocudza-Paary,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Korczmin,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Kornie,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Krynice,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krzewica,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Łaszczów,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Lubycza_Królewska,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Machnówek,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Majdanek,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mosty_Małe,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Nabróż,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nedeżów,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nowosiółki_Kardynalskie,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Nowosiółki_Przednie,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Nowy_Machnów,_Tomaszów_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Oserdów,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Perespa,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Podhajce,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Poturzyn,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Przeorsk,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rebizanty,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rogóźno,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ruda_Wołoska,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rzeczyca,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Siedliska,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Steniatyn,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szalenik,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240102"
+  },
+  "Szczepiatyn,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Sznury,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tarnawatka,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tarnoszyn,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Telatyn,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Teniatyska,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Tomaszów_Lubelski,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tyszowce,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ulhówek,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Wasylów,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231230"
+  },
+  "Wożuczyn,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zadnoga,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zamłynie,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20261005"
+  },
+  "Żerniki,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żurawce,_Tomaszów,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240102"
+  },
+  "Powiat_włodawski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Adampol,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Bukowski_Las,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Dołhobrody,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Korolówka,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Lubień,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Nadbużanka,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Nowe_Załucze,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Różanka,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Siedliszcze,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Sobibór,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Stare_Załucze,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Stary_Brus,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wereszczyn,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wiązowiec,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Włodawa,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Wołoskowola,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251107"
+  },
+  "Żdżarka,_Włodawa,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251106"
+  },
+  "Powiat_zamojski,_województwo_lubelskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230618"
+  },
+  "Antoniówka,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Białobrzegi,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Błonie-Szczebrzeszyn,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251121"
+  },
+  "Bodaczów,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bortatycze,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brody_Duże,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brody_Małe,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chomęciska_Duże,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chomęciska_Małe,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Chyża,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Cześniki,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czołki,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dębowiec,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Grabowiec,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260523"
+  },
+  "Gruszka_Mała_Pierwsza,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Horyszów_Polski,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Horyszów,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Huszczka_Duża,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Iłowiec,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jacnia,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janówka_Wschodnia,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jarosławiec,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jatutów,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kalinowice,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kitów,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Komarów-Wieś,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kotlice,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krasne,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krasnobród,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krzak,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krzywystok,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Księżostany,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łabunie,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łaziska,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Lipsko,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdan_Ruszowski,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdan_Skierbieszowski,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Majdan_Tuczępski,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mokre,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mokrelipie,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nielisz,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Niewirków-Kolonia,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Niewirków,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pniówek,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ruskie_Piaski,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ruszów,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sitaniec,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sitno,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Skierbieszów,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Skokówka,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stabrów,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Stary_Zamość,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szczebrzeszyn,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szorcówka,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szperówka-Szczebrzeszyn,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251121"
+  },
+  "Śniatycze,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tomaszówka,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Udrycze,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wielącza,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wiszenki,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wolica_Śniatycka,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Infułacka,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240326"
+  },
+  "Wólka_Nieliska,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Panieńska,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wólka_Złojecka,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wysokie,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zamość,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260523"
+  },
+  "Zarudzie,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Złojec,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zwierzyniec,_Zamość,_Lubelskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  }
+}

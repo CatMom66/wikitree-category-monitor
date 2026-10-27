@@ -1,0 +1,6322 @@
+{
+  "Powiaty,_województwo_podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230223"
+  },
+  "Powiat_bieszczadzki,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Arłamów,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Brelików,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240819"
+  },
+  "Brzegi_Dolne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230418"
+  },
+  "Brzegi_Górne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Caryńskie,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Chmiel,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Choceń,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Chrewt,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Czarna,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Daszówka,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Dwernik,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Dźwiniacz_Dolny,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240819"
+  },
+  "Grąziowa,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250721"
+  },
+  "Hoszów,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Hoszowczyk,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Hulskie,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Jałowe,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240317"
+  },
+  "Jamna_Dolna,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jamna_Górna,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jasień,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Jaworzec,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Jureczkowa,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Kamionki,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Krościenko,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Krywe,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Krywka,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Kwaszenina,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Leszczowate,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Liskowate,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Łobozew_Dolny,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łodyna,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lutowiska,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Moczary,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Nasiczne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Nowosielce_Kozickie,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Paniszczów,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Polana,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Procisne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Rabe,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Ropienka,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Rosochate,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Rosolin,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Równia,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240317"
+  },
+  "Ruskie,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Serednica,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Serednie_Małe,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Skorodne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Smolnik,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Sokole,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Sokołowa_Wola,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Stańkowa,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Strwiążyk,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Stuposiany,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Teleśnica_Oszwarowa,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Teleśnica_Sanna,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240819"
+  },
+  "Trójca,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240317"
+  },
+  "Trzcianiec,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Tworylne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Ustjanowa_Dolna,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Ustrzyki_Dolne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Ustrzyki_Górne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wetlina,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Wojtkowa,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Wojtkówka,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wola_Romanowa,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wołosate,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wydrne,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zadwórze,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zatwarnica,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zawadka,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Żłobek,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240317"
+  },
+  "Żurawin,_Bieszczady,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240317"
+  },
+  "Powiat_brzozowski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Barycz,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Blizne,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Brzozów,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Buków,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Domaradz,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231005"
+  },
+  "Dydnia,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Golcowa,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Górki,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Grabówka,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Grabownica_Starzeńska,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Haczów,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Hłudno,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Humniska,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Huta_Poręby,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Izdebki,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Jabłonica_Polska,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jabłonica_Ruska,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jabłonka,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jasienica_Rosielna,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jasionów,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Końskie,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Krzemienna,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Krzywe,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Malinówka,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Niebocko,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Niewistka,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nozdrzec,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Obarzym,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Orzechówka,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Przysietnica,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Siedliska,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Stara_Wieś,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Temeszów,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Trześniów,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Turze_Pole,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Ulucz,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wara,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wesoła,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Witryłów,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wola_Jasienicka,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wołodź,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wydrna,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wzdów,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zmiennica,_Brzozów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Powiat_dębicki,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Bączałka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bielowy,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Bobrowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230425"
+  },
+  "Borowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Braciejowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Brzeźnica,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Brzostek,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Bukowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Chotowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Czarna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Dębica,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Dęborzyn,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Dębowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Dobrków,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Dulczówka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Gawrzyłowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Gębiczyna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Głobikowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Głobikówka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Głowaczowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Gołęczyna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Golemki,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241024"
+  },
+  "Góra_Motyczna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Gorzejowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Grabiny,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Grudna_Dolna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Grudna_Górna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Gumniska,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Januszkowice,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Jastrząbka_Stara,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Jaworze_Dolne,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Jaworze_Górne,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Jaźwiny,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Jodłowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Kamienica_Dolna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Kamienica_Górna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Kawęczyn,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Kędzierz,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Klecie,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Kochanówka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241024"
+  },
+  "Korzeniów,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Latoszyn,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Łęki_Dolne,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łęki_Górne,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lipiny,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Machowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Mokre,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Mokrzec,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Nagawczyna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Nagoszyn,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Nawsie_Brzosteckie,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Opacionka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Parkosz,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Paszczyna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Pilzno,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Pilźnionek,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Podgrodzie,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Połomia,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Przeczyca,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Przeryty_Bór,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Pustków,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Pustynia,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Róża,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Siedliska-Bogusz,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Skurowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Słotowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Smarzowa,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Stary_Jawornik,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Stasiówka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Stobierna,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Straszęcin,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Strzegocice,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Wiewiórka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Wola_Brzostecka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Wola_Wielka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Wola_Żyrakowska,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Zagórze,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Zasów,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240812"
+  },
+  "Zawada,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Zawadka_Brzostecka,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Żdżary,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zwiernik,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Żyraków,_Dębica,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Powiat_jarosławski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Bobrówka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Boratyn,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Budzyń,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Bystrowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Cetula,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Chłopice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Chotyniec,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Cieszacin_Mały,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Cieszacin_Wielki,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230407"
+  },
+  "Cząstkowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Czelatyce,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Czerniawka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Czudowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Dobkowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Duńkowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Grabowiec,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Hawłowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Jankowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Jarosław,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Jodłówka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Kidałowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Koniaczów,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Korzenica,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Kramarzówka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Kruhel_Pawłosiowski,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Laszki,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Łazy,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Łowce,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lutków,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Makowisko,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Manasterz,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Michałówka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Miękisz_Nowy,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Miękisz_Stary,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Młyny,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Mołodycz,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Morawsko,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Moszczany,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Munina,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Nielepkowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Nienowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Ostrów,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240903"
+  },
+  "Ożańsk,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Pawłosiów,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Pełkinie,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230408"
+  },
+  "Piwoda,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Pruchnik,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Radawa,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240903"
+  },
+  "Radymno,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230408"
+  },
+  "Rokietnica,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Rozbórz_Długi,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Rozbórz_Okrągły,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Roźwienica,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Rudołowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Ryszkowa_Wola,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Rzeplin,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Skład_Solny,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Trtnik-2",
+    "touched": "20240425"
+  },
+  "Skołoszów,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Sobiecin,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Sośnica,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Surmaczówka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Surochów,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Szczytna,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Szówsko,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230408"
+  },
+  "Świebodna,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Święte,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Tapin,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Tuchla,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Tuczempy,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Tuligłowy,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Tyniowice,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Tywonia,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Węgierka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wiązownica,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250909"
+  },
+  "Wierzbna,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Wietlin,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Wola_Buchowska,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Wola_Roźwienicka,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Wola_Węgierska,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Wólka_Pełkińska,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wólka_Zapałowska,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wysocko,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Zabłotce,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Zaleska_Wola,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Zamiechów,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Zamojsce,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Zapałów,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zaradawa,_Jarosław,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Powiat_jasielski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Bączal_Dolny,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bączal_Górny,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bierówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Bieździadka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Bieździedza,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Błażkowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bryły,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Brzezowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Brzezówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Brzyska,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Brzyszczki,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Brzyście,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230409"
+  },
+  "Chrząstówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Ciechania,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Cieklin,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Czekaj,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Czeluśnica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Dąbrówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Dębowiec,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Desznica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Dobrynia,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Duląbka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Dzielec,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Folusz,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Gąsówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Gliniczek,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Glinik_Polski,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Gorajowice,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Gorzyce,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Grab,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Grabanina,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Hałbów,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Hankówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Huta_Polańska,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Jabłonica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Jareniówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Jasło,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Jaworze,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Kaczorowy,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Kłopotnica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kołaczyce,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kotań,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Kowalowy,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Krajowice,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Krempna,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Kunowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Łajsce,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łaski,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łazy_Dębowieckie,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łężyny,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lipnica_Dolna,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Lipnica_Górna,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Lisów,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Łubienko,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lublica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Łubno_Opace,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Łubno_Szlacheckie,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łysa_Góra,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Majscowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Makowiska,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Mrukowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Myscowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Mytarka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Mytarz,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Niegłowice,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Nienaszów,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Nowy_Glinik,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Opacie,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Osiek_Jasielski,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Osobnica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Ożenna,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Pagórek,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Pielgrzymka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240118"
+  },
+  "Polany,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Potakówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Przysieki,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Pusta_Wola,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Rozstajne,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Sądkowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Samoklęski,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Siedliska_Sławęcińskie,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Sieklówka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Siepietnica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Skalnik,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Skołyszyn,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Sławęcin,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Sobniów,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Sowina,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Szebnie,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Świątkowa_Mała,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Świątkowa_Wielka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Święcany,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Świerchowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Świerzowa_Ruska,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Tarnowiec,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Toki,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Trzcinica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Ujazd,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Umieszcz,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Warzyce,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Wola_Cieklińska,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Wola_Dębowiecka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Wolica,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Wróblowa,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Wrocanka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230723"
+  },
+  "Wyszowatka,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Załęże,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zarzecze,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Zimna_Woda,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Żmigród_Nowy,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Żmigród_Stary,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Żółków,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Żydowskie,_Jasło,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Powiat_kolbuszowski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Brzezówka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Bukowiec,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Cmolas,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Domatków,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Dzikowiec,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Hadykówka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Hucisko,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Huta_Komorowska,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Huta_Przedborska,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241013"
+  },
+  "Jagodnik,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Kłapówka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kolbuszowa_Dolna,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Kolbuszowa_Górna,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Kolbuszowa,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Komorów,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Kopcie,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Korczowiska,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240907"
+  },
+  "Kosowy,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250905"
+  },
+  "Krzątka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260505"
+  },
+  "Kupno,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Leszcze,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Lipnica,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Majdan_Królewski,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Markowizna,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Mazury,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Mechowiec,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Niwiska,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Nowa_Wieś,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Nowy_Dzikowiec,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Ostrowy_Baranowskie,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Ostrowy_Tuszowskie,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Plac,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231005"
+  },
+  "Płazówka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Poręby_Dymarskie,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Poręby_Huciskie,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Przedbórz,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Przyłęk,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Raniżów,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230807"
+  },
+  "Siedlanka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Staniszewskie,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Stary_Rusinów,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Świerczów,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Toporów,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Trzęsówka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Trześń,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Werynia,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Widełka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240812"
+  },
+  "Wilcza_Wola,_Poland,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Wola_Domatkowska,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Wola_Raniżowska,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Zapole,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Zarębki,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Zielonka,_Kolbuszowa,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Powiat_krośnieński,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Bajdy,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Bałucianka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Barwinek,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230702"
+  },
+  "Białobrzegi,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Bóbrka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bratkówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Bzianka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Cergowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Chlebna,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Chorkówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Chyrowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Czarnorzeki,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Czeremcha,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Daliowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Darów,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Deszno,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Długie,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Dobieszyn,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Draganowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Dukla,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Faliszówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Głębokie,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Głojsce,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Głowienka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Iskrzynia,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Iwla,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Iwonicz-Zdrój,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240613"
+  },
+  "Iwonicz,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Jasionka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Jaszczew,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Jaśliska,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Jedlicze,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Kamionka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Klimkówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Kobylany,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Kombornia,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Kopytowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Korczyna,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Krasna,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Królik_Polski,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Krosno,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Krościenko_Niżne,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Krościenko_Wyżne,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łączki_Jagiellońskie,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Ladzin,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Łęki_Dukielskie,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łęki_Strzyżowskie,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Leśniówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Łężany,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lipowica,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Lipowiec,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Lubatowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Lubatówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Machnówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Męcinka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Miejsce_Piastowe,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Milcza,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Moderówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Mszana,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Nadole,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Niżna_Łąka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Odrzykoń,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Olchowiec,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Pietrusza_Wola,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Piotrówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Podniebyle,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Polanka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Poraj,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Posada,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Potok,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Przybówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Puławy,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Rogi,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Ropianka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Równe,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Rymanów,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20261006"
+  },
+  "Rzepnik,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Sieniawa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Smereczne,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Suchodół,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Sulistrowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Szczepańcowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Szklary,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Świerzowa_Polska,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Targowiska,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Tarnawka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Teodorówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Trzciana,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Turaszówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Tylawa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Ustrobna,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Węglówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wietrzno,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Wilsznia,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Wisłoczek,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wojaszówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Wojkówka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Wola_Komborska,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Wola_Niżna,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Wola_Wyżna,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wołtuszowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wróblik_Królewski,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wróblik_Szlachecki,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wrocanka,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Żarnowiec,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zawoje,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Zboiska,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Żeglce,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zręcin,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Zyndranowa,_Krosno,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231024"
+  },
+  "Powiat_łańcucki,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231213"
+  },
+  "Albigowa,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Białobrzegi,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Brzóza_Stadnicka,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Budy_Łańcuckie,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Cierpisz,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Czarna,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Dąbrówki,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Dębina,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Głuchów,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Handzlówka,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Husów,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Korniaktów_Północny,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Kosina,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Kraczkowa,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Krzemienica,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Łańcut,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Markowa,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Medynia_Głogowska,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Medynia_Łańcucka,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Podzwierzyniec,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Pogwizdów,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Rakszawa,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Rogóźno,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Smolarzyny,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Sonina,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Węgliska,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Wola_Dalsza,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231120"
+  },
+  "Wola_Mała,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Wola_Wielka,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Wysoka,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Zalesie,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Żołynia,_Łańcut,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Powiat_leski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Baligród,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Berezka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bereźnica_Niżna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bereźnica_Wyżna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bezmiechowa_Dolna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bezmiechowa_Górna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bóbrka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Buk,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bukowiec,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bystre,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Cisowiec,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Dołżyca,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Dziurdziów,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Glinne,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Górzanka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Habkowce,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Hoczew,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Horodek,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Huzele,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Jabłonki,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Jankowce,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Kalnica,_Cisna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Kiełczawa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Kołonice,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Krzywe,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Lesko,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Liszna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Łopienka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Łubne,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Łuh,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Łukawica,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Manasterzec,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Mchawa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Myczków,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Myczkowce,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Nowosiółki,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Olszanica,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Orelec,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Paszowa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Polańczyk,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Polanki,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Posada_Liska,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Postołów,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Przysłup,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Rabe,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Radziejowa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Rajskie,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Roztoki_Dolne,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Rudenka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Rybne,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Smerek,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230419"
+  },
+  "Solina,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Solinka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Stefkowa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Stężnica,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Studenne,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Średnia_Wieś,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Teka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Tyskowa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Uherce_Mineralne,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wańkowa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Weremień,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wola_Górzańska,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wola_Matiaszowa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wola_Postołowa,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wołkowyja,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zabrodzie,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zahoczewie,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zawój,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zawóz,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Żerdenka,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Żernica_Niżna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Żernica_Wyżna,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Żubracze,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Zwierzyń,_Lesko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Powiat_leżajski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Biedaczów,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Brzóza_Królewska,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Brzyska_Wola,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Chodaczów,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Dąbrowica,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230407"
+  },
+  "Dębno,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Giedlarowa,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Grodzisko-Miasteczko,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Grodzisko_Dolne,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Grodzisko_Górne,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230416"
+  },
+  "Gwizdów,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Hucisko,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Jastrzębiec,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Jelna,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Kolonia_Polska,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240321"
+  },
+  "Kulno,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240104"
+  },
+  "Kuryłowka,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Laszczyny,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241012"
+  },
+  "Leżajsk,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Łukowa,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240813"
+  },
+  "Nowa_Sarzyna,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230812"
+  },
+  "Opaleniska,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Ożanna,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Piskorowice,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Przedmieście,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Przychojec,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Ruda_Łańcucka,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Rzuchów,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Sarzyna,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230812"
+  },
+  "Siedlanka,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Słoboda,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Stare_Miasto,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Tarnawiec,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Tarnogóra,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Wierzawice,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Wola_Żarczycka,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250115"
+  },
+  "Wólka_Grodziska,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Wólka_Łamana,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Wólka_Łętowska,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Zmysłówka,_Leżajsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Powiat_lubaczowski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Basznia_Dolna,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Basznia_Górna,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Bihale,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Borchów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Borowa_Góra,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Budomierz,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Cewków,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Chlewiska,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Chotylub,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Cieszanów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230331"
+  },
+  "Czapłaki,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Dąbków,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Dąbrowa,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Dąbrówka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231119"
+  },
+  "Dachnów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Futory,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Gorajec,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Horyniec-Zdrój,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Huta_Różaniecka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Jędrzejówka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231214"
+  },
+  "Kadłubiska,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Karolówka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Kobylnica_Ruska,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Kobylnica_Wołoska,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Kowalówka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Krowica_Hołodowska,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Krowica_Lasowa,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Krowica_Sama,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Krzywe,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Lipsko,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Lisie_Jamy,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Łówcza,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lubaczów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Lubliniec_Nowy,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Lubliniec_Stary,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Łukawica,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łukawiec,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Majdan_Lipowiecki,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Miłków,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230401"
+  },
+  "Młodów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Moszczanica,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Narol,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230401"
+  },
+  "Niemstów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Niwki,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240417"
+  },
+  "Nowa_Grobla,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Nowe_Brusno,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Nowe_Sioło,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Nowiny_Horynieckie,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nowy_Dzików,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Oleszyce,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Opaka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Ostrowiec,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Płazów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Podemszczyzna,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Podlesie,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Polanka_Horyniecka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Potok_Jaworowski,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Prusie,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Radruż,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Ruda_Różaniecka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230401"
+  },
+  "Sieniawka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Skolin,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Stare_Brusno,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Stare_Oleszyce,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Stare_Sioło,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Stary_Dzików,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Sucha_Wola,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Szczutków,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Świdnica,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Ułazów,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Werchrata,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Wielkie_Oczy,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Wólka_Horyniecka,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wólka_Żmijowska,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Załuże,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Żmijowiska,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Żuków,_Lubaczów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Powiat_mielecki,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Babule,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Biały_Bór,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Błonie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Borki_Nizińskie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Borowa,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Breń_Osuchowski,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Brzyście,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Chorzelów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Cyranka,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Czajkowa,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Czermin,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Dąbie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240812"
+  },
+  "Dąbrówka_Wisłocka,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dobrynin,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Domacyny,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Dulcza_Mała,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Dulcza_Wielka,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Gawłuszowice,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Gliny_Małe,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Gliny_Wielkie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Goleszów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Górki,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Grochowe,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Grzybów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Izbiska,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Jamy,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Jaślany,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Jeziórko,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Józefów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Kądziołki,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kawęczyn,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Kębłów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kiełków,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Kliszów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Krzemienica,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Książnice,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Łączki_Brzeskie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łysaków,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łysakówek,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Malinie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Mielec,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Młodochów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Orłów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Ostrówek,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Otałęż,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Padew_Narodowa,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Partynia,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Piątkowiec,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Piechoty,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Pień,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Pławo,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Pluty,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Podborze,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Podleszany,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Podole,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Przecław,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Przykop,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Radomyśl_Wielki,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Rożniaty,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Ruda,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Rydzów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Rzędzianowice,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Rzemień,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Rzochów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Sadkowa_Góra,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Sarnów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Surowa,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Szafranów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Szydłowiec,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Trzciana,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Trześń,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Tuszów_Mały,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Tuszów_Narodowy,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Tuszyma,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Wadowice_Dolne,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wadowice_Górne,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wampierzów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wojków,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wojsław,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wola_Chorzelowska,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wola_Mielecka,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wola_Otałęska,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wola_Pławska,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wola_Wadowska,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wola_Zdakowska,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Wólka_Dulecka,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wylów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Zabrnie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Zachwiejów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Zaduszniki,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Żarówka,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Zarównie,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Zdziarzec,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230420"
+  },
+  "Zgórsko,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Ziempniów,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Złotniki,_Mielec,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Powiat_niżański,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Bieliniec,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Bieliny,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Borki,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Bukowina,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Cholewiana_Góra,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Dąbrowica,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Domostawa,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Glinianka,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Golce,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Groble,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Hucisko,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Huta_Deręgowska,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Huta_Krzeszowska,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241013"
+  },
+  "Jarocin,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Jata,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Jeżowe,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Kamionka,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Katy,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Kończyce,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kopki,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Koziarnia,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Krzeszów_Dolny,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250203"
+  },
+  "Krzeszów,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240104"
+  },
+  "Kurzyna_Mała,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Kurzyna_Średnia,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Kurzyna_Wielka,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Łętownia,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Majdan_Golczański,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Mostki,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Nisko,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Nowa_Wieś,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Nowosielec,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Nowy_Nart,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Podolszynka_Ordynacka,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Przędzel,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Racławice,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Rogóźnia,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Rudnik_nad_Sanem,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Sigiełki,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Sójkowa,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Stary_Nart,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Stróża,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Szyperki,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Ulanów,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Wolina,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Wólka_Bielińska,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Wólka,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251106"
+  },
+  "Wólka_Tanewska,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Zalesie,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Zarzecze,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Ździary,_Nisko,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Powiat_przemyski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Aksmanice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Babice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Bachórzec,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Bachów,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Barycz,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Batycze,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Bełwin,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Bircza,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Boguszówka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Bolestraszyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Borysławka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Brylińce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Brzeżawa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Buszkowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Buszkowiczki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Chałupki_Dusowskie,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Chołowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Chyrzyna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Ciemięrzowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Cisowa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Darowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Dobrzanka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Drohobyczka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Drohojów,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Duńkowiczki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dusowce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Fredropol,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Grochowce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Hermanowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Hnatkowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Hruszowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Hucisko_Nienadowskie,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Hureczko,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Hurko,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Huta_Brzuska,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Huwniki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Iskań,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Jaksmanice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Jasienica_Sufczyńska,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jawornik_Ruski,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Kalwaria_Pacławska,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Kaszyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Kłokowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kniażyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Koniuszki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Kopysno,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Kormanice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Korytniki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Korzeniec,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Kosienice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Kosztowa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Kotów,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Krajna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Krasice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Krasiczyn,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Krówniki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Kruhel_Wielki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Krzeczkowa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Krzywcza,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Kuńkowce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Kupiatycze,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Kupna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Kuźmina,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Leszczawa_Dolna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Leszczawa_Górna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Leszczawka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Leszczyny,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Leszno,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Łętownia,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lipa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Łodzinka_Dolna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łodzinka_Górna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łomna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łuczyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Maćkowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Makowa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Malawa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Malhowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Małkowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Medyka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Mielnów,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Młodowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Nakło,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Nehrybka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Nienadowa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Nowa_Wieś,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Nowe_Sady,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nowosiółki_Dydyńskie,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Olszany,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Olszynka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20231108"
+  },
+  "Orzechowce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Ostrów,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Pacław,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Paportno,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Piątkowa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Pikulice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Polchowa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Posada_Rybotycka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Prałkowce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Przedmieście_Dubieckie,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Przekopana,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Przemyśl,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Reczpol,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Rokszyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Roztoka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Rożubowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Rudawka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Ruszelczyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Rybotycze,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Siedliska,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Sielec,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Sielnica,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Sierakośce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Skopów,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Słonne,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Sólca,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Sopotnik,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Stanisławczyk,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Stara_Bircza,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Stubienko,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Stubno,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Sufczyna,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Śliwnica,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Średnia,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tarnawce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Tarnawka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Torki,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Trójczyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Ujkowice,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Walawa,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Wapowce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Wilcze,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Witoszyńce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Wola_Korzeniecka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wola_Krzywiecka,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Wybrzeże,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Wyszatyce,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231106"
+  },
+  "Zadąbrowie,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231019"
+  },
+  "Zasanie-Przemyśl,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250907"
+  },
+  "Żohatyn,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Żurawica,_Przemyśl,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Powiat_przeworski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Adamówka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Białoboki,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Budy_Przeworskie,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Chałupki,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Chodakówka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Cieplice,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Czerwona_Wola,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Dębów,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dobcza,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Dobra,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230408"
+  },
+  "Dybków,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230408"
+  },
+  "Gać,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Głogowiec,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gniewczyna_Łańcucka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Gniewczyna_Tryniecka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Gorliczyna,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Gorzyce,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Grzęska,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Hadle_Kańczuckie,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Hadle_Szklarskie,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Hucisko_Jawornickie,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Jagiełła,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Jawornik_Polski,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Kańczuga,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Kisielów,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241026"
+  },
+  "Krasne,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250203"
+  },
+  "Krzeczowice,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Łapajówka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230408"
+  },
+  "Leżachów,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Łopuszka_Mała,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łopuszka_Wielka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Maćkówka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Majdan_Sieniawski,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Manasterz,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Mirocin,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Mokra_Strona,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Niżatyce,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Nowosielce,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Ostrów,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Paluchy,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231120"
+  },
+  "Pantalowice,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Pawłowa,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Pełnatycze,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231018"
+  },
+  "Przeworsk,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230424"
+  },
+  "Rączyna,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Rozbórz,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Rożniatów,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230408"
+  },
+  "Rudka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250813"
+  },
+  "Siedleczka,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Sieniawa,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Siennów,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Sietesz,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Studzian,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Świętoniowa,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240812"
+  },
+  "Tryńcza,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230424"
+  },
+  "Ubieszyn,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Ujezna,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Urzejowice,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Widaczów,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Wolica,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Wólka_Małkowa,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wólka_Ogryzkowa,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wylewa,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230409"
+  },
+  "Zagórze,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231107"
+  },
+  "Zarzecze,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230409"
+  },
+  "Żuklin,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Żurawiczki,_Przeworsk,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230409"
+  },
+  "Powiat_ropczycko-sędziszowski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Będziemyśl,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Będzienica,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240920"
+  },
+  "Blizna,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231028"
+  },
+  "Boreczek,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Borek_Mały,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Borek_Wielki,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230425"
+  },
+  "Broniszów,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Brzeziny,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230425"
+  },
+  "Brzezówka,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230425"
+  },
+  "Brzyzna,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Budzisz,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Bystrzyca,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Chechły,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Cierpisz,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Czarna_Sędziszowska,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Glinik,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Gnojnica,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Góra_Ropczycka,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Iwierzyce,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Kamionka,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Kawęczyn_Sędziszowski,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Klęczany,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Kozodrza,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Krzywa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231108"
+  },
+  "Łączki_Kucharskie,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260129"
+  },
+  "Łopuchowa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lubzina,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Mała,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Nawsie,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Niedźwiada,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231007"
+  },
+  "Nockowa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Ocieka,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Okonin,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Olchowa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Ostrów,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Pietrzejowa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Ropyczyce,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Ruda,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Rzegocin,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Sędziszów_Małopolski,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Sepnica,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Sielec,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Skrzyszów,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Sośnice,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Szkodna,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Wielopole_Skrzyńskie,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Wiercany,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Wiśniowa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Witkowice,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Wolica_Ługowa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Wolica_Piaskowa,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Zagorzyce,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Zdżary,_Ropczyce-Sędziszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231109"
+  },
+  "Powiat_rzeszowski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260324"
+  },
+  "Bachórz,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Białka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Błażowa,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Błędowa_Tyczyńska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Błędowa_Zgłobieńska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Boguchwała,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Borek_Nowy,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Borek_Stary,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Bratkowice,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Brzezówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Budy_Głogowskie,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240903"
+  },
+  "Budy,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Chmielnik,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Dąbrowa,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrówka_Starzeńska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dylągowa,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Dylągówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Dynów,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Futoma,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Głogów_Małopolski,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Górno,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Grzegorzówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Harta,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Hermanowa,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Hucisko,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Hyżne,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Jasionka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Kąkolówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kamień,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230626"
+  },
+  "Kielnarowa,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Krasne,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Łąka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Laskówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Lecka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Lipie,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Łowisko,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lubenia,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Łubno,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łukawiec,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lutoryż,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Malawa,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Mrowla,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Niechobrz,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Nienadówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Nosówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Nowa_Wieś,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Nowy_Kamień,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230807"
+  },
+  "Palikówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Pawłokoma,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Piątkowa,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Pogwizdów_Nowy,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Przewrotne,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Racławówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Rogoźnica,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Rudna_Mała,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Rudna_Wielka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Siedliska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Sokołów_Małopolski,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230914"
+  },
+  "Sołonka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Stobierna,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Durbin-702",
+    "touched": "20230426"
+  },
+  "Straszydle,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Strażów,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Styków,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Szklary,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Świlcza,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Terliczka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Trzciana,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Trzeboś,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Trzebownisko,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Trzebuska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Turza,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Tyczyn,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Ulanica,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wola_Cicha,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Wola_Rafalowska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Wola_Zgłobieńska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Woliczka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Wólka_Niedźwiedzka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wólka_Sokołowska,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wysoka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Zabajka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Zabratówka,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Zaczernie,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Zarzecze,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Zgłobień,_Rzeszów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Powiat_sanocki,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Balnica,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Bażanówka,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Bełchówka,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Besko,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Brzozowiec,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Bukowsko,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Bykowce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Czaszyn,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Czerteż,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Czystohorb,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Dąbrówka_Polska,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrówka_Ruska,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dębna,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Długie,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dobra,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Dolina,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Dołżyca,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Dudyńce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Duszatyn,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Falejówka,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Hłomcza,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Hołuczków,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Jaćmierz,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Jasiel,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Jawornik,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Jędruszkowce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Kalnica,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Kamienne,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Karlików,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Komańcza,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Kostarowce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Kreców,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Królik_Wołoski,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240812"
+  },
+  "Kulaszne,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Lachawa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Lalin,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Liszna,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Łodzina,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łukowe,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łupków,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Maniów,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Markowce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Międzybrodzie,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Mików,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Mokre,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Morochów,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Moszczaniec,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Mrzygłód,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Mymoń,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Nadolany,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Nagórzany,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Niebieszczany,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Nowosielce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Nowotaniec,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Odrzechowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Olchowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Olchowce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Osławica,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Pakoszówka,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Pielnia,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Pisarowce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Płonna,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20240812"
+  },
+  "Płowce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Pobiedno,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Polany_Surowiczne,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Poraż,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Prełuki,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Prusiek,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Przybyszów,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Raczkowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Radoszyce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Rakowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Ratnawica,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Rozpucie,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Rzepedź,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Sanoczek,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Sanok,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Siemuszowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Smolnik,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Srogów_Dolny,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Srogów_Górny,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Strachocina,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Stróże_Małe,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Stróże_Wielkie,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Sukowate,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Surowica,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Szczawne,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Szczerabanówka,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Średnie_Wielkie,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tarnawa_Dolna,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Tarnawa_Górna,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Tokarnia,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Trepcza,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Turzańsk,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Tyrawa_Solna,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Tyrawa_Woloska,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Wisłok_Wielki,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231121"
+  },
+  "Wola_Krecowska,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wola_Michowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Wola_Piotrowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wola_Sękowa,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wolica,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wujskie,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Wysoczany,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Zabłotce,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Zagórz,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Zahutyń,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Załuż,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zarszyn,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230426"
+  },
+  "Zasław,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Zboiska,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231111"
+  },
+  "Zubeńsko,_Sanok,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231027"
+  },
+  "Powiat_stalowowolski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Antoniów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Bojanów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Brandwica,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Charzewice,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Chwałowice,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Cisów_Las,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Czekaj_Pniowski,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231119"
+  },
+  "Dąbrowa_Rzeczycka,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Dąbrowa,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250904"
+  },
+  "Dąbrówka_Pniowska,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Dąbrówka,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230630"
+  },
+  "Gwoździec,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Jastkowice,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kłyżów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Korabina,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Kotowa_Wola,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Krzaki,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231120"
+  },
+  "Laski,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Majdan_Zbydniowski,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Maziarnia,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Motycze_Szlacheckie,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Orzechów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Pilchów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Pławo,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Pniów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Przyszów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Pysznica,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230422"
+  },
+  "Radomyśl_nad_Sanem,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Rozwadów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Ruda_Jastkowska,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Rzeczyca_Długa,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Rzeczyca_Okrągła,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Skowierzyn,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Stalowa_Wola,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Stany,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Studzieniec,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231103"
+  },
+  "Turbia,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Witkowice,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Wola_Rzeczycka,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Wólka_Turebska,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Żabno,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zaklików,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Zaleszany,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Zbydniów,_Stalowa_Wola,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Powiat_strzyżowski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Babica,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231110"
+  },
+  "Baryczka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Blizianka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Bonarówka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Brzeżanka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Cieszyna,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Dobrzechów,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Frysztak,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Gbiska,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Glinik_Charzewski,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Glinik_Dolny,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Glinik_Górny,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Glinik_Średni,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Godowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Gogołów,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Grodzisko,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Gwożdzianka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Gwoźnica_Dolna,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Gwoźnica_Górna,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Huta_Gogołowska,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Jaszczurowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Jawornik,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Jazowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Kalembina,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Kobyle,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Konieczkowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Kozłówek,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Kożuchów,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Łętownia,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lubla,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Lutcza,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Małówka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Markuszowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Niebylec,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Niewodna,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Nowa_Wieś,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Oparówka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Połomia,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Przedmieście_Czudeckie,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Pstrągowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Pstrągówka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Pułanki,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Różanka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Stępina,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Strzyżów,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Szufnarowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Tropie,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Tułkowice,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Twierdza,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Widacz,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Wiśniowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Wysoka_Strzyżowska,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Wyżne,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Zaborów,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Żarnowa,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zawadka,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Żyznów,_Strzyżów,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Powiat_tarnobrzeski,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231006"
+  },
+  "Alfredówka,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Baranów_Sandomierski,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Chmielów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Cygany,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Dąbrowica,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Durdy,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Dymitrów_Duży,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Dymitrów_Mały,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Dzików,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Furmany,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Gorzyce,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Grębów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Jadachy,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Jamnica,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kaczaki,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240920"
+  },
+  "Kajmów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Knapy,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Krawce,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Machów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230725"
+  },
+  "Marki,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240915"
+  },
+  "Miechocin,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Mokrzyszów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Motycze_Poduchowne,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Nagnajów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Nowa_Dęba,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231008"
+  },
+  "Ocice,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Poręby_Dębskie,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231021"
+  },
+  "Rozalin,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Siedleszczany,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Sielec,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Skopanie,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Sobów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Sokolniki,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Stale,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Suchorzów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Tarnobrzeg,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Tarnowska_Wola,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Trześń,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Wielowieś,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Wola_Baranowska,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240916"
+  },
+  "Wrzawy,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Zakrzów,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Zalesie_Gorzyckie,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Żupawa,_Tarnobrzeg,_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Rzeszów_miasto-powiat,_województwo_podkarpackie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "1000-Lecia_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260401"
+  },
+  "Biała_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Budziwój_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Bzianka_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Cmentarze_rzeszowie": {
+    "editor": "Kobus-79",
+    "touched": "20260321"
+  },
+  "Drabinianka_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Kazimierza_Pułaskiego_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260321"
+  },
+  "Matysówka_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Mieszka_I_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260327"
+  },
+  "Miłocin_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Pobitno_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Przybyszówka_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Słocina_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Staromieście_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Staroniwa_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260321"
+  },
+  "Śródmieście_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260321"
+  },
+  "Wilkowyja_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260327"
+  },
+  "Zalesie_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  },
+  "Zawiszy_Czarnego_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260321"
+  },
+  "Zwięczyca_(Rzeszów_miasto-powiat),_Podkarpackie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260320"
+  }
+}

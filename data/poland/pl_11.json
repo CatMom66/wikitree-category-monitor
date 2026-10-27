@@ -1,0 +1,6334 @@
+{
+  "Powiaty,_województwo_małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230223"
+  },
+  "Kraków_miasto-powiat,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260821"
+  },
+  "Bieńczyce_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Bieżanów-Prokocim_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Bronowice_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Cmentarze_krakowskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260306"
+  },
+  "Czyżyny_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Dębniki_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Grzegórzki_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Krowodrza_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Łagiewniki-Borek_Fałęcki_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Mistrzejowice_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Nowa_Huta_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Podgórze_Duchackie_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Podgórze_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Prądnik_Biały_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Prądnik_Czerwony_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Stare_Miasto_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Swoszowice_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Wzgórza_Krzesławickie_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260318"
+  },
+  "Zwierzyniec_(Kraków_miasto-powiat),_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260319"
+  },
+  "Powiat_bocheński,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Baczków,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bełdno,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Bessów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bieńkowice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bochnia,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Boczów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bogucice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Borek,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Borówna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bratucice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Brzezowa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Brzeźnica,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Buczków,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Buczyna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bytomsko,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Cerekiew,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231009"
+  },
+  "Chełm,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Chodenice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Chronów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Chrostowa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Cichawka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Cikowice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Dąbrowa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Dąbrowica,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Dąbrówka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Damienice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Drwinia,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Dziewin,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Gawłów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Gawłówek,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Gierczyce,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Gorzków,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230325"
+  },
+  "Grabie,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Grabina,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Grobla,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Jodłówka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Kamionna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Kamyk,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Kępanów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Kierlikówka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Kobyle,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Kobylec,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Kopaliny,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Królówka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Krzeczów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Krzyżanowice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Łąkta_Dolna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Łąkta_Górna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Łapanów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Łapczyca,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Łazy,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Leksandrowa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Leszczyna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Lipnica_Dolna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Lipnica_Górna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Lipnica_Murowana,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Łomna,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Lubomierz,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Majkowice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Mikluszowice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Moszczenica,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Muchówka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Niedary,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Nieprześnia,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Nieszkowice_Małe,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Nieszkowice_Wielkie,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Nowy_Wiśnicz,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Olchawa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Ostrów_Królewski,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Ostrów_Szlachecki,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Pogwizdów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Połom_Duży,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Proszówki,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Rajbrot,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Rdzawa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Rozdziele,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Rzezawa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Siedlec,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Słomka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Sobolów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Stanisławice,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Stary_Wiśnicz,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Stradomka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Świniary,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Tarnawa,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Trawniki,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Trzciana,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Ubrzeż,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Ujazd,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wieruszyce,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wiśnicz_Mały,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wola_Drwińska,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wola_Nieszkowska,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wola_Wieruszycka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wolica,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wyżyce,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Zatoka,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Zawada,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Zbydniów,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Żegocina,_Bochnia,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Powiat_brzeski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Barczków,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Będzieszyna,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Biadoliny_Szlacheckie,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Bielcza,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Biesiadki,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Biskupice_Melsztyńskie,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Borzęcin,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Brzesko,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230322"
+  },
+  "Bucze,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Czchów,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Dąbrówka_Morska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dębno,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dobrociesz,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Dołęga,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Doły,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Drużków_Pusty,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Gnojnik,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Górka,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gosprzydowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Iwkowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Jadowniki,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Jasień,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Jastew,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Jaworsko,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Jurków,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Kąty,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Księże_Kopacze,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Kwików,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Łęki,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lewniowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Łoniowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łysa_Góra,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Maszkienice,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Mokrzyska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Niedzieliska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Niedźwiedza,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Okocim,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Perła,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Piaski-Drużków,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Pojawie,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Połom_Mały,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Popędzyna,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Porąbka_Iwkowska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Porąbka_Uszewska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Poręba_Spytkowska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Przyborów,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Rajsko,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Rudy-Rysie,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Rylowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Rząchowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Sterkowiec,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Strzelce_Małe,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Strzelce_Wielkie,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Sufczyn,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Szczepanów,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Szczurowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Tworkowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Tymowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Uszew,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Uście_Solne,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230325"
+  },
+  "Wojakowa,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wokowice,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wola_Dębińska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wola_Przemykowska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Wrzępia,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wytrzyszczka,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zaborów,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Zawada_Uszewska,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Żerków,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Złota,_Brzesko,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Powiat_chrzanowski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Alwernia,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Babice,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Balin,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Bolęcin,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Brodła,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Chrzanów,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Czyżówka,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Dulowa,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Grojec,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Gromiec,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Jankowice,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Karniowice,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Kąty,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kościelec,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Kwaczała,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Lgota,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Libiąż,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Luszowice,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Mętków,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Mirów,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Młoszowa,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Myślachowice,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nieporaz,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Okleśna,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Olszyny,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Piła_Kościelecka,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Płaza,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Płoki,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Podłęże,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Pogorzyce,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Poręba_Żegoty,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Psary,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Regulice,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Rozkochów,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Siersza,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Trzebinia,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230325"
+  },
+  "Trzebionka,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wodna,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wygiełzów,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zagórze,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230325"
+  },
+  "Żarki,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Źródła,_Chrzanów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Powiat_dąbrowski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Adamierz,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Bagienica,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Bieniaszowice,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Biskupice,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Bolesław,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Borki,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Borusowa,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Brnik,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Brzezówka,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Bucze-Wielopole,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240814"
+  },
+  "Czajków,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Ćwików,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrowa_Tarnowska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Dąbrowica,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrówka_Gorzycka,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrówki_Breńskie,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Delastowice,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Grądy,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gręboszów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Gruszów_Mały,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Gruszów_Wielki,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Hubenice,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Kanna,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Karsy,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Kozłów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Kupienin,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Kuzie,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Laskówka_Chorąska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Laskówka_Delastowska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Łęka_Szczucińska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łęka_Żabiecka,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lipiny,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Lubasz,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Lubiczko,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Luszowice,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Małec,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Maniów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Mędrzechów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Nieczajna_Dolna,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Niwki,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251118"
+  },
+  "Odmęt,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Olesno,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Oleśnica,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Pawłów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Pilcza_Żelichowska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Podborze,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Podkościele,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Podlipie,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Radgoszcz,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Radwan,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Samocice,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Skrzynka,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Słupiec,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Smęgorzów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Smyków,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Strojców,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Suchy_Grunt,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Swarzów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Szarwark,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Szczucin,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Świdrówka,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Świebodzin,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Targowisko,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Tonia,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Ujście_Jezuickie,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wielopole,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wójcina,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wola_Gręboszowska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wola_Mędrzechowska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wola_Szczucińska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wola_Żelichowska,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Wólka_Grądzka,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Zalipie,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Załuże,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Zawierzbie,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Żdżary,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Żelazówka,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Żelichów,_Dąbrowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Powiat_gorlicki,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Banica,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Bartne,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bednarka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Berdechów,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Biecz,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Bielanka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bieliczna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Biesna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Bieśnik,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Binarowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Blechnarka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Bobowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Bodaki,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Brunary,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Brzana_Dolna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Brzana_Górna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Bugaj,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Bystra,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Czarna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Czarne,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Czertyżne,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Długie,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dominikowice,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Gładyszów,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Głęboka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Glinik_Mariampolski,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Gorlice,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Grudna_Kępska,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Hańczowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Izby,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Jankowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Jasionka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Jaszkowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Klęczany,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Klimkówka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Kobylanka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Konieczna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Korczyna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Kryg,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Krzywa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Kunkowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Kwiatoń,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Kwiatonowice,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Leszczyny,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Libusza,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Lipinki,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260911"
+  },
+  "Lipna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Lipniczka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Łosie,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Łużna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Małastów,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Męcina_Mała,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Męcina_Wielka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Moszczenica,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Mszanka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Nieznajowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Nowica,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Owczary,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Pagorzyna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Pętna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Przysłup,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Racławice,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Radocyna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Regietów,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Ropa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Ropica_Górna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Ropica_Polska,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Ropki,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Rozdziele,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Rożnowice,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Sędziszowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Sękowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Siary,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Siedliska,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Sitnica,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Skwirtne,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Smerekowiec,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Sokół,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Trtnik-2",
+    "touched": "20240425"
+  },
+  "Staszkówka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Stawisza,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Stróżna,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Stróżówka,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Strzeszyn,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Szalowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Szymbark,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Śnietnica,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Uście_Gorlickie,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241026"
+  },
+  "Wapienne,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wilczyska,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Wójtowa,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wola_Łużańska,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wołowiec,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wysowa-Zdrój,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Zagórzany,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Zdynia,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241010"
+  },
+  "Powiat_krakowski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260324"
+  },
+  "Aleksandrowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Baczyn,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Balice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Batowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Bębło,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260430"
+  },
+  "Biały_Kościół,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bibice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230414"
+  },
+  "Bolechowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Boleń,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Borek_Szlachecki,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Bosutów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Brzezie,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Brzezinka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Brzoskwinia,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Brzyczyna,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Budzyń,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Buków,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Burów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Cholerzyn,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Chorowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Chrosna,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Cianowice_Duże,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czatkowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Czerna,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Czernichów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Czulice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230415"
+  },
+  "Czułów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Czułówek,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Dojazdów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Dubie,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Dziekanowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Facimiech,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Filipowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Frywałd,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Gaj,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Garlica_Murowana,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Giebułtów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230415"
+  },
+  "Głęboka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Górka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gotkowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Grębałów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Grodzisko,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Grzegorzowice_Małe,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Igołomia,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Iwanowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jaśkowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Jerzmanowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jeziorzany,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231022"
+  },
+  "Jurczyce,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Kacice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kamień,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Karniów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Karniowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Kaszów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Kleszczów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Kłokoczyn,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kobylany,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Kocmyrzów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Konary,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Kopanka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Korabniki,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260216"
+  },
+  "Korzkiew,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kryspinów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Krzęcin,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Krzeszowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Krzysztoforzyce,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Książniczki,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240613"
+  },
+  "Kulerzów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Łazy,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Libertów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Lipna_Wola,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Liszki,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Lusina,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Maciejowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Maszków,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Michałowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Miękinia,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Miłocice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Minoga,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Młynka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Mników,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Modlnica,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Modlniczka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Mogilany,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260216"
+  },
+  "Morawica,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Muniakowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nawojowa_Góra,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Niebyła,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Niedźwiedź,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Niegoszowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nielepice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nowa_Góra,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nowa_Wieś,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nowa_Wieś_Szlachecka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Ochodza,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Ochojno,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Ojców,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Olszowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Ostrężnica,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Paczółtowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Pękowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Piekary,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Pisary,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Pobiednik_Mały,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Polanka_Hallera,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Pozowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Prądnik_Czajowski,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Prądnik_Korzkiewski,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Prusy,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Przeginia_Duchowna,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Przeginia,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231119"
+  },
+  "Przeginia_Narodowa,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Przybysławice_(gmina_Skała),_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Raciborowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Rączna,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Radwanowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Radziszów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Rudawa,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Rudno,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Rusocice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Rybna,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Rząska,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Rzeplin,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rzeszotary,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Rzozów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Samborek,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Sanka,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Sąspów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sieciechowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Siedlec,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Skała,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Skawina,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Skrzeszowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Smardzowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sulechów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Sułkowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sułoszowa,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szczodrkowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szczyglice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Szyce,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ściejowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Świątniki_Górne,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Świńczów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tenczynek,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Tomaszowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Trojanowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230415"
+  },
+  "Ujazd,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Węgrzce,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Więckowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wielka_Wieś,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wielkie_Drogi,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wielmoża,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wilczkowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Władysław,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Włosań,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wola_Filipowska,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wola_Kalinowska,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wola_Radziszowska,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Wołowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Wrząsowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Zabierzów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230415"
+  },
+  "Zalas,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Żary,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zastów,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Zelczyna,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Zelków,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231023"
+  },
+  "Żerkowice,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zielonki,_Kraków,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231010"
+  },
+  "Powiat_limanowski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Bałażówka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Dobra,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Glisne,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Góra_Świętego_Jana,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gruszowiec,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Jadamwola,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Janowice,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Jastrzębie,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Jaworzna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Jodłownik,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Jurków,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Kamienica,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Kamionka_Mała,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Kanina,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Kasina_Wielka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Kasinka_Mała,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Kisielówka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Kłodne,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20241012"
+  },
+  "Kobyłczyna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Konina,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230417"
+  },
+  "Kostrza,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Koszary,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Krasne-Lasocice,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Krosna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Laskowa,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Łętowe,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Limanowa,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Lipowe,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Łososina_Górna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łostówka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lubomierz,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Łukowica,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Makowica,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Męcina,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Młyńczyska,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Młynne,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Mordarka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Mstów,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Mszana_Dolna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Mszana_Górna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Niedźwiedź,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Nowe_Rybie,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Olszówka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Owieczka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Pasierbiec,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Piekiełko,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Pisarzowa,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230417"
+  },
+  "Podłopień,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Podobin,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Pogorzany,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Półrzeczki,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Porąbka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Poręba_Wielka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Przenosza,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Przyszowa,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230417"
+  },
+  "Raba,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Roztoka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Rupniów,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Sechna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Siekierczyna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Skrzydlna,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Słomka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Słopnice,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Słupia,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Sowliny,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Stara_Wieś,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Stare_Rybie,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Stronie,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Stróża,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Strzeszyce,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Szarysz-Mordarka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240819"
+  },
+  "Szczawa,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Szczyrzyc,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Szyk,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Świdnik,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tymbark,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230417"
+  },
+  "Ujanowice,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Walowa_Góra,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Wilczyce,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Wilkowisko,_Limanowa,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20231108"
+  },
+  "Wola_Skrzydlańska,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Wysokie,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Zalesie,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Zamieście,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Zasadne,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Zawadka,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Zbludza,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231026"
+  },
+  "Żmiąca,_Limanowa,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Powiat_miechowski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230806"
+  },
+  "Biskupice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bukowska_Wola,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czaple_Wielkie,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Dziemięrzyce,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Falniów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gołcza,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Grzymałów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ilkowice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jaksice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Janowiczki,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jazdowice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kalina_Wielka,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kamieńczyce,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Konaszówka,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kościejów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Książ_Wielki,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Maków,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Mianocice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Miechów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Miroszów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Moczydło,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Podleśna_Wola,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Jantarek-1",
+    "touched": "20260920"
+  },
+  "Podmiejska_Wola,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pojałowice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Poradów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Jantarek-1",
+    "touched": "20260920"
+  },
+  "Przesławice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pstroszyce_Pierwsze,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Racławice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rogów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Siedliska,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Słaboszów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sławice_Szlacheckie,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Słomniki,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Strzeżów_Pierwszy,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szczepanowice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Śladów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tczyca,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ulina_Mała,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Ulina_Wielka,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Więcławice_Stare,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wielka_Wieś,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Witowice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wysocice,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zagorzyce,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Jantarek-1",
+    "touched": "20260920"
+  },
+  "Zarogów,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zaryszyn,_Miechów,_Małopolskie,_Polska": {
+    "editor": "Jantarek-1",
+    "touched": "20260826"
+  },
+  "Powiat_myślenicki,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Bęczarka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Bieńkowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Biertowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Bogdanówka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Bojańczyce,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Borzęta,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Brzączowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Brzezowa,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bysina,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Chełm,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Czasław,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Czechówka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Dobczyce,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Droginia,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Dziekanowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Glichów,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Głogoczów,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Górne_Przedmieście,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gruszów,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Harbutowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Jasienica,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Jawornik,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Kawec,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kędzierzynka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kobielnik,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Komorniki,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kornatka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Krzczonów,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Krzeczów,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Krzesławice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Krzyszkowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Krzywaczka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Krzyworzeka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kwapinka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lipnik,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lubień,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Łyczanka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Mierzeń,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Myślenice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Niezdów,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Nowa_Wieś,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Osieczany,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Pcim,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Polanka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Poręba,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Poznachowice_Górne,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Raciechowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Rudnik,_Dobczyce,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Rudnik,_Sułkowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Sawa,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Siepraw,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Sieraków,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Skomielna_Biała,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Skomielna_Czarna,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Skrzynka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Stadniki,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Stojowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Stróża,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Sułkowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Tenczyn,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Tokarnia,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Trzebunia,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Trzemeśnia,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Węglówka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Więcierza,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Więciórka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wierzbanowa,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wiśniowa,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zakliczyn,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zasań,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Zawadka,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Zegartowice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Żerosławice,_Myślenice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Powiat_nowosądecki,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Bącza_Kunina,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Barcice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Barnowiec,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Bartkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Berdechów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Berest,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Biała_Niżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Biała_Wyżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Białawoda,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Biczyce,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Biegonice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Bilsko,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Binczarowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Bogusza,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Brzezna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Brzyna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Bukowiec,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Chełmiec,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Chochorowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Chodorowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Chomranice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Chruślice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Cieniawa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Czaczów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Czarny_Potok,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Czerniec,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Czyrna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Dąbrowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrówka_Polska,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Długołęka-Świerkla,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dubne,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230422"
+  },
+  "Falkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Florynka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Frycowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230422"
+  },
+  "Gaboń,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Gaj,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230809"
+  },
+  "Gołąbkowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gołkowice_(Dolne,_Górne),_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gostwica,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Gródek,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Grybów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Homrzyska,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230422"
+  },
+  "Janczowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Januszowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Jasienna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Jastrzębik,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Jazowsko,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Jelna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Juraszowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Kąclowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kadcza,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Kamianna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Kamionka_Wielka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Kicznia,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Klęczany,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231009"
+  },
+  "Kobyle,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Kokuszka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Koniuszowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Korzenna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Kotów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Krasne_Potockie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Królowa_Górna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Królowa_Polska,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Krużlowa_Niżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Krużlowa_Wyżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Krynica,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Krzyżówka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Kunów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Kurów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Łabowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Łabowiec,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260314"
+  },
+  "Łącko,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łazy_Biegonickie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łęg,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łęka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łęki,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Leluchów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Librantowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Lipie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Lipnica_Wielka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Łomnica-Zdrój,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łosie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łososina_Dolna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łyczanka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Maciejowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Marcinkowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Maszkowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Michalczowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Milik,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Miłkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Młodów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Mochnaczka_Niżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Mochnaczka_Wyżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Mogilno,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Mokra_Wieś,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Mostki,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Moszczenica_Niżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Moszczenica_Wyżna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Mszalnica,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Muszyna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230422"
+  },
+  "Muszynka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Mystków,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Myślec,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Naszacowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Naściszowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Nawojowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230422"
+  },
+  "Niskowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Nowa_Wieś,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Nowy_Sącz,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Obidza,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Obłazy_Ryterskie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Olszana,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Olszanka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Paszyn,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Piątkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Piorunka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Piwniczna-Zdrój,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Podegrodzie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Podole-Górowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Podrzecze,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Polany,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Polna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Popardowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Popowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Poręba_Mała,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Posadowa_Mogilska,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Powrożnik,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230703"
+  },
+  "Przydonica,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Przysietnica,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Ptaszkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Rąbkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Rdziostów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Rogi,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Roztoka_Mała-Łabowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250701"
+  },
+  "Roztoka_Ryterska,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Roztoka_Wielka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Rybień,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Rytro,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Siedlce,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Sienna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Siołkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Składziste,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Skrudzina,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230422"
+  },
+  "Skrzętla-Rojówka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Słotwiny,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Słowikowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Stadła,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Stańkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Stara_Wieś,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Stary_Sącz,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Stróże,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Sucha_Struga,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Szczawnik,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Świdnik,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Świniarsko,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tabaszowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Tęgoborze,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tropie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Trzetrzewina,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Trzycierz,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Tylicz,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Uhryń,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wawrzka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Wielogłowy,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wielopole,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wierchomla_Mała,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wierchomla_Wielka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wilkonosza,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Witowice_Dolne,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Witowice_Górne,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wójkowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wojnarowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Wola_Kosnowa,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wola_Krogulecka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wola_Kurowska,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wola_Piskulina,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wronowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Wyskitna,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Zabełcze,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Zabrzeż,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Zagorzyn,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Załubińcze,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zarzecze,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Zawada,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Zawadka,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Żbikowice,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zbyszyce,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Żegiestów,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Żeleźnikowa_Mała,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Złockie,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Złotne,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zubrzyk,_Nowy_Sącz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231031"
+  },
+  "Powiat_nowotarski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Bańska_Wyżna,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Biała_Woda,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Chabówka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Chochołów,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Ciche,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Czarna_Woda,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Czarny_Dunajec,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Czerwienne,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Czorsztyn,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Dębno,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Długopole,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dursztyn,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Dział,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Falsztyn,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Frydman,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Gronków,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Grywałd,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Hałuszowa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Harklowa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Huba,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Jabłonka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240407"
+  },
+  "Jaworki,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Kacwin,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Klikuszowa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Kluszkowce,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Knurów,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Krauszów,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Krempachy,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Krościenko_nad_Dunajcem,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250917"
+  },
+  "Krośnica,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Łapszanka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Łapsze_Niżne,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Łapsze_Wyżne,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Lasek,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Lipnica_Wielka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Łopuszna,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Ludźmierz,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Maniowy,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Maruszyna,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Mizerna,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Morawczyna,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Niedzica,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Niwa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Nowa_Biała,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Nowy_Targ,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Obidowa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Ochotnica_(Dolna,_Górna),_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Odrowąż,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Ostrowsko,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Piekielnik,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260629"
+  },
+  "Pieniążkowice,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Podczerwone,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Podwilk,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240407"
+  },
+  "Ponice,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Pyzówka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Raba_Wyżna,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Rabka-Zdrój,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Ratułów,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Rdzawka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Rogoźnik,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Rokiciny_Podhalańskie,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Sieniawa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Skawa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Skrzypne,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Słone,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Spytkowice,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Sromowce_Niżne,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Sromowce_Wyżne,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Stare_Bystre,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Szaflary,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Szczawnica,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Szlachtowa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Szlembark,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Trybsz,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Tylka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Tylmanowa,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Waksmund,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Wróblówka,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Załuczne,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zaryte,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Zaskale,_Nowy_Targ,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Powiat_olkuski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230806"
+  },
+  "Bolesław,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Brzozówka,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bukowno,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bydlin,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Domaniewice,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Glanów,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gołaczewy,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Gorenice,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Hucisko_Kwaśniowskie,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Imbramowice,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Jangrot,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260617"
+  },
+  "Klucze,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Kosmolów,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260617"
+  },
+  "Krze,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Krzywopłoty,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20261005"
+  },
+  "Małobądz,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Milonki,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Młyny,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Olkusz,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Osiek,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Podlesie,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Poręba_Górna,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Kobus-79",
+    "touched": "20260617"
+  },
+  "Rabsztyn,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sieniczno,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sulisławice,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Tarnawa,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Trzyciąż,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wolbrom,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zadroże,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Załęże,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Zawada,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Żurada,_Olkusz,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Powiat_oświęcimski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Babice,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Bielany,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Bobrek,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230324"
+  },
+  "Broszkowice,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Brzeszcze,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Brzezinka,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Bulowice,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Chełmek,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Dwory,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230322"
+  },
+  "Głębowice,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Gorzów,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Graboszyce,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Grodzisko,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Grojec,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231008"
+  },
+  "Harmęże,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Jawiszowice,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Kańczuga,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Kęty,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Laskowa,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Łazy,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250915"
+  },
+  "Łęki,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Malec,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Nowa_Wieś,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Osiek,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231008"
+  },
+  "Oświęcim,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260822"
+  },
+  "Palczowice,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Piotrowice,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Pławy,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231025"
+  },
+  "Podlesie,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231122"
+  },
+  "Podolsze,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Polanka_Wielka,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231122"
+  },
+  "Poręba_Wielka,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Przecieszyn,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Przeciszów,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Rajsko,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Rudze,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Skidziń,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Smolice,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Stawy_Monowskie,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20250904"
+  },
+  "Trzebieńczyce,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wilczkowice,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Witkowice,_Oświęcim,_Małopolska,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Włosienica,_Oświęcim,_Lesser_Poland,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Zaborze,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Zator,_Oświęcim,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Powiat_proszowicki,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230518"
+  },
+  "Biórków_Wielki,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Bobin,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czajęcice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czernichów,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Czuszów,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Glewiec,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Klimontów,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Koniusza,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Książnice_Wielkie,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Łaganów,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Niezwojowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Nowe_Brzesko,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Pałecznica,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Piekary,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Piotrkowice_Małe,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Polekarcice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Proszowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Rachwałowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Rzędowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Sokołowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Szpitary,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Śmiłowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wierzbno,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wolwanowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Wrocimowice,_Proszowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251114"
+  },
+  "Powiat_suski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Baczyn,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Białka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Bieńkówka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Budzów,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Bystra_Podhalańska,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Chrobacze,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Grzechynia,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Hucisko,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Jachówka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Jordanów,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Juszczyn,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Kojszówka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Krzeszów,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Kuków,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Kurów,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Lachowice,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231113"
+  },
+  "Łętownia,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Maków_Podhalański,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Malejowa,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230421"
+  },
+  "Marcówka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Naprawa,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Osielec,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Palcza,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Sidzina,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Skawica,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Stryszawa,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230430"
+  },
+  "Sucha_Beskidzka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230421"
+  },
+  "Śleszowice,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tarnawa_Dolna,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Toporzysko,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Wieprzec,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Wysoka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Zachełmna,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Żarnówka,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Zawoja,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Zembrzyce,_Sucha,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Powiat_tarnowski,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Biadoliny_Radłowskie,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Biała,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Bieśnik,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Biskupice_Radłowskie,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Bistuszowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Błonie,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Bobrowniki_Małe,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Bobrowniki_Wielkie,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Bogoniowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Bogumiłowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Borowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Bruśnik,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Brzozowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Buchcice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Burzyn,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Charzewice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Chojnik,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Chorążec,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Chryszów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Ciężkowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Czermna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230410"
+  },
+  "Dąbrówka_Infułacka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrówka_Szczepanowska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dąbrówka_Tuchowska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Dębina_Zakrzowska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260103"
+  },
+  "Demblin,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Dzierżaniny,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Faliszewice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Falkowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Faściszowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Filipowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Garbek,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Glów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Golanka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Goruszów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Gorzyce,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Grabno,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Gromnik,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Gumniska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Gwoździec,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Ilkowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Jadowniki_Mokre,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Jamna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Janikowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Janowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Jastrzębia,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Jodłówka-Wałki,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Jodłówka_Tuchowska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Joniny,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Karwodrza,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kąśna_Dolna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kąśna_Górna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kielanowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kipszna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Klikowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kłyż,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Kobierzyn,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kołkówka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Komorów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kończyska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Koszyce_Małe,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Koszyce_Wielkie,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Kowalowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Krzyż,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Łęg_Tarnowski,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łękawica,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łękawka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łętowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lichwin,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Lisia_Góra,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Łopoń,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łowczów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łowczówek,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lubaszowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Lubcza,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Lubinka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Łukanowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Łukowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lusławice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Marcinkowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Meszna_Opacka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Miechowice_Małe,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Miechowice_Wielkie,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Mikołajowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Milówka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Nieciecza,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Niedomice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Niwka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Nowa_Jastrząbka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231114"
+  },
+  "Nowe_Żukowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Nowodworze,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Nowopole,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Odporyszów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Ołpiny,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Olszowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Olszyny,_Rzepiennik_Strzyżewski,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Olszyny,_Wojnicz,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Ostrów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Ostrusza,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231017"
+  },
+  "Otfinów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231012"
+  },
+  "Paleśnica,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Pałuszyce,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Pasieka_Otfinowska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Pawęzów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Pierszyce,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Piotrkowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Pławna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Pleśna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Podlesie_Dębowe,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Pogórska_Wola,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Poręba_Radlna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Przybysławice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Radlna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Radłów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230328"
+  },
+  "Roztoka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Ruda_Kameralna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230328"
+  },
+  "Rudka,_Wierzchosławice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Rudka,_Wojnicz,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Rychwałd,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Ryglice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Rzędzin,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Rzepiennik_Biskupi,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Rzepiennik_Marciszewski,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Rzepiennik_Strzyżewski,_Gorlice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230403"
+  },
+  "Rzepiennik_Suchy,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Rzuchowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Siedlec,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Siedliska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Siedliszowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Siekierczyna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Siemiechów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Sieradza,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Sikorzyce,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Skrzyszów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Słona,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Stróże,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Swoszowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Szczepanowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Szerzyny,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231020"
+  },
+  "Szynwałd,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Śmigno,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Świebodzin,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Świerczków,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tarnów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260524"
+  },
+  "Tarnowiec,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Trzemeszna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Tuchów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Tursko,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Turza,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Uniszowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wał-Ruda,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wesołów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Więckowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wielka_Wieś,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Wierzchosławice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wietrzychowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wojnicz,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Wola_Lubecka,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231104"
+  },
+  "Wola_Radłowska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Wola_Rogowska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231016"
+  },
+  "Wola_Rzędzińska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wola_Stróska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Woźniczna,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wróblowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zabawa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zabłędza,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Żabno,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230402"
+  },
+  "Zaczarnie,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zakliczyn,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231011"
+  },
+  "Zakrzów,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zalasowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zawada_Lanckorońska,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zawada,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zborowice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230405"
+  },
+  "Zbylitowska_Góra,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zdonia,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zdrochec,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231015"
+  },
+  "Zgłobice,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Żukowice_Stare,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Żurowa,_Tarnów,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Powiat_tatrzański,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Białka_Tatrzańska,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230723"
+  },
+  "Biały_Dunajec,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Brzegi,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Bukowina_Tatrzańska,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231029"
+  },
+  "Czarna_Góra,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Dzianisz,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Gliczarów_(Dolny,_Górny),_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Groń,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Jurgów,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Kościelisko,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Leśnica,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230423"
+  },
+  "Murzasichle,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Poronin,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Rzepiska,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Witów,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Ząb,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231030"
+  },
+  "Zakopane,_Tatra,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Powiat_wadowicki,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Andrychów,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230430"
+  },
+  "Babica,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Bachowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Barwałd_Dolny,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Bęczyn,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Brody,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Brzezinka,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Brzeźnica,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Bugaj,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Chocznia,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Chrząstowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Dąbrówka,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Frydrychowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Gierałtowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Gierałtowiczki,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Gorzeń_Dolny,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Gorzeń_Górny,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Inwałd,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Izdebnik,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Jaroszowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Jastrzębia,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Jaszczurowa,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Kaczyna,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Kalwaria_Zebrzydowska,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Klecza_Dolna,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Kopytówka,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Kossowa,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Koziniec,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Łączany,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lanckorona,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Łękawica,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Leńcze,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Leśnica,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Lgota,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Lipowa,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Marcyporęba,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Miejsce,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Mucharz,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Nidek,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Nowe_Dwory,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Paszkówka,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Podchybie,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Podolany,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Półwieś,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Ponikiew,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Przybradz,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Przytkowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Radocza,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Roczyny,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Roków,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Ryczów,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Rzyki,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Skawce,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Skawinki,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Sosnowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Spytkowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Stanisław_Dolny,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Stanisław_Górny,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Stronie,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Stryszów,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Sułkowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Świnna_Poręba,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Targanice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Tłuczań,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Tomice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wadowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230323"
+  },
+  "Wieprz,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Witanowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Woźniki,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Wysoka,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zagórnik,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zagórze,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20260401"
+  },
+  "Zakrzów,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zarzyce_Małe,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zarzyce_Wielkie,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zawadka,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zebrzydowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Zygodowice,_Wadowice,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231115"
+  },
+  "Powiat_wielicki,_województwo_małopolskie": {
+    "editor": "Sonczalla-1",
+    "touched": "20230517"
+  },
+  "Bilczyce,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Biskupice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bodzanów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Bogucice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Brzegi,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Brzezie,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Byszyce,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Chobot,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Chorągwica,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Chrość,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Cichawa,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Czarnochowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Czyżów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231013"
+  },
+  "Dobranowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Fałkowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Gdów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Golkowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231105"
+  },
+  "Gorzków,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Grabie,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Grabówki,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Grajów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Grodkowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Gruszki,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20240126"
+  },
+  "Hucisko,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Jankówka,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Janowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Jaroszówka,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Jawczyce,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kłaj,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Klasno,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Kokotów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Koźmice_Małe,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Koźmice_Wielkie,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Krakuszowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Krzyszkowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Książnice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230808"
+  },
+  "Kunice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łazany,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Lednica_Górna,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Lednica_Niemiecka,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łężkowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Liplas,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Łysokanie,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Mała_Więś,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Marszowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Mietniów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Niegowić,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Niepołomice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20251026"
+  },
+  "Niewiarów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Nieznanowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Niżowa,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Ochmanów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Pawlikowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Pierzchów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Pierzchowiec,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Podborze,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Podłęże,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Podolany,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Podstolice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Przebieczany,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Raciborsko,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Rożnowa,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Siercza,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230429"
+  },
+  "Sławkowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Słomiróg,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Staniątki,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Strumiany,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Stryszowa,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Suchoraba,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Sułków,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Sułów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Sygneczów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Szarów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Szczygłów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Szczytniki,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Śledziejowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Świątniki_Dolne,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Targowisko,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Tomaszkowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Trąbki,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Węgrzce_Wielkie,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231117"
+  },
+  "Wiatowice,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wieliczka,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20230322"
+  },
+  "Wieniec,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Winiary,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Wola_Batorska,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Wola_Zabierzowska,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Zabawa,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zabierzów_Bocheński,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Zabłocie,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zagórzany,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zagórze,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zakrzów,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zalesiany,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zborczyce,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231014"
+  },
+  "Zborówek,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  },
+  "Zręczyce,_Wieliczka,_Małopolskie,_Polska": {
+    "editor": "Sonczalla-1",
+    "touched": "20231116"
+  }
+}

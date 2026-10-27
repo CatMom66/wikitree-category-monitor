@@ -1,0 +1,2510 @@
+{
+  "Opole_Voivodeship,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260727"
+  },
+  "Brzeg_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Bąków,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Bierzów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Borucice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Brzeg,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230222"
+  },
+  "Czepielowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Dobrzyń,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260430"
+  },
+  "Gałązczyce,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240520"
+  },
+  "Garbów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Gierów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Gierszowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Gola_Grodkowska,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Golczowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240712"
+  },
+  "Grodków,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230222"
+  },
+  "Janów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Jaszów,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20250919"
+  },
+  "Jędrzejów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Kobiela,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20250724"
+  },
+  "Kopice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Kościerzyce,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Kruszyna,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Krzyżowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Lewin_Brzeski,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240811"
+  },
+  "Lipowa,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Łosiów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Lubcz,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230222"
+  },
+  "Lubicz,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Lubsza,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Mąkoszyce,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Małujowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Michałowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Mikołajowa,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Mikolin,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251021"
+  },
+  "Nowa_Wieś_Mała_(gmina_Grodków),_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Nowa_Wieś_Mała_(gmina_Lewin_Brzeski),_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Oldrzyszowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240810"
+  },
+  "Olszanka,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Osiek_Grodkowski,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Pępice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Pisarzowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260430"
+  },
+  "Pogorzela,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Prędocin,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260803"
+  },
+  "Przecza,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Przylesie,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Ptakowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Raciszów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Raski,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240630"
+  },
+  "Rataje-Brzeg,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Rogalice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Rogów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Roszkowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Sarny_Małe,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240630"
+  },
+  "Skorogoszcz,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Starowice_Dolne,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Stroszowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240630"
+  },
+  "Strzelniki,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Szydłowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Śmiechowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Wierzbna,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240520"
+  },
+  "Wierzbnik,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Wojnowiczki,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20250724"
+  },
+  "Wojsław,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Wójtowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Wronów,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Żelazna,_Brzeg,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Zielęcice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Zwanowice,_Brzeg,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Głubczyce_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Babice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Baborów,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Bernacice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Bliszczyce,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Bogdanowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Braciszów,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Branice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Chomiąża,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Chróścielów,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Ciermięcice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Debrzyce,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Dzbańce,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Dziećmarów,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Dzielów,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Dzierżkowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Dzierżysław,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Głubczyce,_Głubczyce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230307"
+  },
+  "Gołuszowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Grobniki,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Jabłonka,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Jakubowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Jaroniów,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Kietrz,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Krasne_Pole,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Krzyżowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Księże_Pole,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Łęgi,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240620"
+  },
+  "Lenarcice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Lisięcice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Ludmierzyce,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Lwowiany,_Głubczyce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260213"
+  },
+  "Mokre,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Nasiedle,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Niekazanice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Nowa_Cerekwia,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Nowa_Wieś_(Pomorzowiczki),_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Opawica,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Pietrowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Pilszcz,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Pomorzowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Posucice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Radynia,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Rogożany,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Równe,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Rozumice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Sułków,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Szczyty,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Ściborzyce_Wielkie,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Tłustomosty,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Wiechowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Włodzienin,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Wódka,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Wojnowice,_Głubczyce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240725"
+  },
+  "Wysoka,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Zubrzyce,_Głubczyce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240621"
+  },
+  "Kędzierzyn-Koźle_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Biadaczów-Landzmierz,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Bierawa,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Blachownia_Śląska,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Błażejowice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240810"
+  },
+  "Brzeźce,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Chrósty,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Cisek,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Cisowa,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Długomiłowice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Dobrosławice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Gierałtowice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Goszyce,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Gościęcin,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Grodzisko,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Grudynia_Wielka,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Jakubowice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240919"
+  },
+  "Kędzierzyn-Koźle,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Kłodnica,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Kobylice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Komorno,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Koźle-Rogi,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Koźle,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Landzmierz,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Łany,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Lubieszów,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Mechnica,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Miejsce_Odrzańskie,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Milice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Miłowice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Naczęsławice,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Ostrożnica,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Pawłowiczki,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240810"
+  },
+  "Podlesie,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Polska_Cerekiew,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230310"
+  },
+  "Przewóz,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Radziejów,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Reńska_Wieś,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20250430"
+  },
+  "Roszowicki_Las,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240917"
+  },
+  "Rzeczyce,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230216"
+  },
+  "Stare_Koźle,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Warmuntowice-Pawłowiczki,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Większyce,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Zakrzów,_Kędzierzyn-Koźle,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240126"
+  },
+  "Kluczbork_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Bąków,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Biadacz,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Biskupice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Bogacica,_Kluczbork,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240526"
+  },
+  "Bogdańczowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Borkowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Bruny,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Brzózki,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Byczyna,_Kluczbork,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230307"
+  },
+  "Chocianowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Chudoba,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Gierałcice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230307"
+  },
+  "Gotartów,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Janówka,_Kluczbork,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230307"
+  },
+  "Kluczbork,_Kluczbork,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230307"
+  },
+  "Kochłowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Komorzno,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Kostów,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Krasków,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Krzywiczyny,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Krzywizna,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Kuniów,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Laskowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Lasowice_Małe,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Ligota_Wołczyńska,_Kluczbork,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251009"
+  },
+  "Miechowa,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Nasale,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Paruszowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Polanowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Roszkowice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Rożnów,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Skałągi,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240812"
+  },
+  "Smardy_Dolne,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240812"
+  },
+  "Szum,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Szymonków,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Świniary_Małe,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Świniary_Wielkie,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Tuły,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Unieszów,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Wąsice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251009"
+  },
+  "Wierzbica_Górna,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Wojsławice,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Wołczyn,_Kluczbork,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240623"
+  },
+  "Krapkowice_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Dąbrówka_Górna,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240729"
+  },
+  "Dąbrówka,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Dobra,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Dziedzice,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Gogolin,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Górażdże,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Januszkowice,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Jasiona,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Kamień_Śląski,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230313"
+  },
+  "Kamionek,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Karłubiec-Gogolin,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240811"
+  },
+  "Komorniki,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Kórnica,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Krapkowice,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Krępna,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Kujawy,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Malnia,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Moszna,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Nowy_Dwór_Prudnicki,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Obrowiec,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230222"
+  },
+  "Odrowąż,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Oleszka,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Otmęt-Krapkowice,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Racławiczki,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Rozkochów,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Rozwadza,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Stradunia,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Strzebniów,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Strzeleczki,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Ściborowice,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Ścigów,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251120"
+  },
+  "Walce,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Wygon-Kórnica,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Zielina,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Żużela,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Żyrowa,_Krapkowice,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230328"
+  },
+  "Żywocice,_Krapkowice,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Namysłów_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Bąkowice,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Biestrzykowice,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Bławaciska,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Brzezinka,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Brzozowiec,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Bukowie,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240709"
+  },
+  "Dąbrowa,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Dąbrówka_Dolna,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240526"
+  },
+  "Domaradz,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Domaradzka_Kuźnia,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240725"
+  },
+  "Fałkowice,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Głuszyna,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Gola,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Gręboszów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Idzikowice,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Jastrzębie,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Karolówka,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Kowalowice,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Krogulna,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Krzemieniec,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Krzywa_Góra,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Ładza,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Ligota_Książęca,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Lubnów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Michalice,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Miejsce,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Mikowice,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Minkowskie,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Miodary,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Młokicie,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Namysłów,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Nowa_Wieś,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Objazda,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Osiek_Duży,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Pokój,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Rychnów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Siedlice,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240630"
+  },
+  "Siemysłów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Smarchowice_Wielkie,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Smogorzów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240624"
+  },
+  "Starościn,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Strzelce,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Sułoszów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Świerczów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Wilków,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Włochy,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Wojciechów,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Zawiść,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Zieleniec,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Zielony_Dąb,_Namysłów,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Ziemiełowice,_Namysłów,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230517"
+  },
+  "Nysa_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Biała_Nyska,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Bielice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Biskupów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Bodzanów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Budzieszowice,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260401"
+  },
+  "Burgrabice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Charbielin,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Chociebórz,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Chróścina,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Cieszanowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Czarnolas,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Domaszkowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Drogoszów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Gierałcice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Głębinów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Głuchołazy,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240522"
+  },
+  "Goświnowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Goworowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Grodziscze,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Gryżów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Hajduki_Nyskie,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Hanuszów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Iława,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240522"
+  },
+  "Jarnołtów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Jasienica_Dolna,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Jędrzychów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Jodłów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Kałków,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Kamienica,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Kamiennik,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Karłowice_Wielkie,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Kępnica,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Kłodobok,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Konradów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Konradowa,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Korfantów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Kubice,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Kwiatków,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Łąka,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240716"
+  },
+  "Łambinowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Lasocice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Lasowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Ligota_Wielka,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Lipniki,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Lipowa,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Maciejowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Makowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Mańkowice,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Markowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Morów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Myszowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Niesiebędowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Nowy_Las,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Nowy_Świętów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240811"
+  },
+  "Nysa,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230706"
+  },
+  "Otmuchów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Paczków,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Pakosławice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Piątkowice,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260401"
+  },
+  "Piotrowice_Nyskie,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Pniewie,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Podkamień,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Podlesie,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Polski_Świętów,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Prusinowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Przechód,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Przydroże_Małe,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Przydroże_Wielkie,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Radowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Ratnowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Regulice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Rusocin,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260430"
+  },
+  "Rynarcice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Rzymiany,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Rzymkowice,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Siedlec,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Siestrzechowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Skoroszyce,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260401"
+  },
+  "Sławniowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Stary_Grodków,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Stary_Las,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Stary_Paczków,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230309"
+  },
+  "Strobice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260429"
+  },
+  "Sucha_Kamienica,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Suszkowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Szadurczyce,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Szklary,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Ścinawa_Mała,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Ścinawa_Nyska,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Trzeboszowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Unikowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Węża,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Wielkie_Łąki,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Wierzbie,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Wierzbięcice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240625"
+  },
+  "Wilamowa,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Włodary,_Nysa,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261006"
+  },
+  "Włostowa,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Wójcice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Wyszków_Śląski,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Złotogłowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260430"
+  },
+  "Zwanowice,_Nysa,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240626"
+  },
+  "Olesno_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Bodzanowice,_Olesno,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240526"
+  },
+  "Dobrodzień,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Gorzów_Śląski,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Grodzisko,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Jamy,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Jastrzygowice,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Jaworek,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Kadłub_Wolny,_Olesno,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230309"
+  },
+  "Knieja,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Kolonia_Łomnicka,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Kucoby,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Łomnica,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Łowoszów,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Myślina,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Olesno,_Olesno,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230309"
+  },
+  "Pawłowice,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Pludry,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Praszka,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Prusków,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Sowczyce,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Stare_Olesno,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Sternalice,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Świercze,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Uszyce,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Wachów,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Wachowice,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Warłów,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260408"
+  },
+  "Wichrów,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Wysoka,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Zdziechowice,_Olesno,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Zębowice,_Olesno,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230626"
+  },
+  "Opole_City-County,_Opole_Voivodeship": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_I_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_II_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_IX_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_V_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_VI_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_VII_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_VIII_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_XII_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "District_XIII_(Opole_City-County),_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260325"
+  },
+  "Opole_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Antoniów,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251225"
+  },
+  "Biadacz,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Bierdzany,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Brynica,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Brzęczkowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Chróścice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Chróścina,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230705"
+  },
+  "Chrząstowice,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230426"
+  },
+  "Chrząszczyce,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Chrzowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Chwalkowice,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230426"
+  },
+  "Ciepielowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Dąbrowa,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Dąbrówka_Łubniańska,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Dębie,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Dobrzeń_Wielki,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Domecko,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Falmirowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Góra,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Goszczowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Grabczok,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Grabin,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Gracze,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Grodziec_(gmina_Niemodlin),_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Grodziec_(gmina_Ozimek),_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Jaczowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Jełowa,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Kadłub_Turawski,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Kaniów,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Karczów,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230426"
+  },
+  "Karłowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Kęszyce,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Komprachcice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Kosorowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Kotórz_Wielki,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Krasna_Góra,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Kup,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Lędziny,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Ligota_Prószkowska,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260103"
+  },
+  "Ligota_Tułowicka,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Lipno,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Lubienia,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240811"
+  },
+  "Łubniany,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Luboszyce,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Magnuszowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Masów,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Mechnice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Michałówek,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Miedziana,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Murów,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Nakło,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Narok,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Niemodlin,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Niewodniki,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Nowe_Siołkowice,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230313"
+  },
+  "Okoły,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Osowiec_Śląski,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Ozimek,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240526"
+  },
+  "Piotrowa,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Polska_Nowa_Wieś,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Popielów,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230707"
+  },
+  "Popielowska_Kolonia,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Prądy,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Prószków,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Przysiecz,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Przywory,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Radomierowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Radoszowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Roszkowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Rutki,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Rybna,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Rzędziwojowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Sady,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230221"
+  },
+  "Skarbiszowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Stare_Kolnie,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Stare_Siołkowice,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Stobrawa,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Suchy_Bór,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Szczedrzyk,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Szczepanowice-Niemodlin,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240810"
+  },
+  "Szydłowiec_Śląski,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Święciny,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Tarnów_Opolski,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Tułowice,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240519"
+  },
+  "Turawa,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Węgry,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260416"
+  },
+  "Wydrowice,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260417"
+  },
+  "Zagwiździe,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Zawada,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Żelazna,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Zimnice_Wielkie,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240630"
+  },
+  "Złotniki,_Opole,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240629"
+  },
+  "Źlinice,_Opole,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230308"
+  },
+  "Prudnik_County,_Opole_Voivodeship": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Biała,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Biedrzychowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Brzeźnica,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Chrzelice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Ciesznów,_Prudnik,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Dębina,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Dytmarów,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Dzierżysławice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Głogówek,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Grabina,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Józefów,_Prudnik,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Łącznik,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Łąka_Prudnicka,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Laskowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Lubrza,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Mieszkowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20251127"
+  },
+  "Mionów,_Prudnik,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Mokra,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Moszczanka,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Niemysłowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Nowy_Browiniec,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Piorunkowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Pogórze,_Prudnik,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Prężyna,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Prężynka,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Prudnik,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Racławice_Śląskie,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Radostynia,_Prudnik,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260415"
+  },
+  "Rostkowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Rudziczka,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Skrzypiec,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Solec,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Stare_Kotkowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20260811"
+  },
+  "Stare_Miasto-Prudniku,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Szonów,_Prudnik,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Szybowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Trzebina,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Twardawa,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Wasiłowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Wierzbiec,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Wierzch,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Włóczno,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Wróblin,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Zwiastowice,_Prudnik,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240807"
+  },
+  "Strzelce_County,_Opole_Voivodeship": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Adamowice,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Błotnica_Strzelecka,_Strzelce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240520"
+  },
+  "Centawa,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Czarnocin,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Gąsiorowice,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Góra_Świętej_Anny,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Grodzisko,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Jaryszów,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Jemielnica,_Strzelce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20240520"
+  },
+  "Kadłub,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Kadłubiec,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Kalinowice,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Kielcza,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Kolonowskie,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Krośnica,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Łaziska,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Leśnica,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Mokre_Łany,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Nogowczyce,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Olszowa,_Strzelce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230222"
+  },
+  "Osiek,_Strzelce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20250208"
+  },
+  "Piotrówka,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Płużnica_Wielka,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240812"
+  },
+  "Raszowa,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240622"
+  },
+  "Rokicie,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240717"
+  },
+  "Rozmierka,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Rozmierz,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Rożniątów,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260413"
+  },
+  "Spórok,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Staniszcze_Wielkie,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Strzelce_Opolskie,_Strzelce,_Opole,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20230222"
+  },
+  "Suche_Łany,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240627"
+  },
+  "Szymiszów,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Ujazd,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Utrata,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Warmątowice,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Wysoka,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Zalesie_Śląskie,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  },
+  "Zawadzkie,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20260414"
+  },
+  "Żędowice,_Strzelce,_Opole,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20240628"
+  }
+}
