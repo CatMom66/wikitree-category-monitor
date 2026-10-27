@@ -112,7 +112,7 @@ def changes(previous, current, excluded_editors):
     return events
 
 
-def main():
+def main(dry_run=False):
     snapshots = {}
     configurations = list(reports())
     # Validate all 32 reports before changing the RSS or any baseline.
@@ -135,6 +135,10 @@ def main():
         else:
             print(f'{key}: first-run baseline; no historical alerts')
 
+    if dry_run:
+        print('DRY RUN PASSED: No RSS or baseline files changed')
+        return
+        
     # Reuse the existing RSS writer to retain previous Prussian and Polish items.
     monitor.write_feed(events)
     STATE_DIR.mkdir(parents=True, exist_ok=True)
@@ -165,4 +169,10 @@ def self_test():
 
 if __name__ == '__main__':
     import sys
-    self_test() if '--self-test' in sys.argv else main()
+
+    if '--self-test' in sys.argv:
+        self_test()
+    elif '--dry-run' in sys.argv:
+        main(dry_run=True)
+    else:
+        main()
