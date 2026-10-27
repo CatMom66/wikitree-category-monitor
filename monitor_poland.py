@@ -82,8 +82,8 @@ def parse_report(html, english=False, is_lesser_poland=False):
             if len(row) < 4:
                 continue
             try:
-                level = int(row[0].strip())
-            except ValueError:
+                level = int(row[0].strip().split()[0])
+            except (ValueError, IndexError):
                 continue
             category, editor, touched = (v.strip() for v in row[1:4])
             if excluded_at_level is not None and level <= excluded_at_level:
