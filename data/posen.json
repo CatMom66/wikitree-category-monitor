@@ -4548,7 +4548,7 @@
     "touched": "20241123"
   },
   "Bukowiec,_Neutomischel,_Posen": {
-    "editor": "Beck-15123",
+    "editor": "Kobus-79",
     "touched": "20261026"
   },
   "Chraplewo,_Neutomischel,_Posen": {
@@ -6727,6 +6727,10 @@
     "editor": "Trtnik-2",
     "touched": "20241123"
   },
+  "Kielczyn_Hauland,_Schrimm,_Posen": {
+    "editor": "Beck-15123",
+    "touched": "20261026"
+  },
   "Kolacin,_Schrimm,_Posen": {
     "editor": "Trtnik-2",
     "touched": "20241123"
@@ -6934,6 +6938,10 @@
   "Xions,_Schrimm,_Posen": {
     "editor": "Trtnik-2",
     "touched": "20241123"
+  },
+  "Zaborowo,_Schrimm,_Posen": {
+    "editor": "Beck-15123",
+    "touched": "20261027"
   },
   "Zawory,_Schrimm,_Posen": {
     "editor": "Trtnik-2",
