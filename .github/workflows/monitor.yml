@@ -32,8 +32,8 @@ jobs:
       - name: Test Poland and Polska monitor
         run: python monitor_poland.py --self-test
 
-      - name: Test live Poland and Polska reports
-        run: python monitor_poland.py --dry-run
+      - name: Monitor Poland and Polska reports
+        run: python monitor_poland.py
 
       - name: Save baselines and RSS
         run: |
