@@ -7707,10 +7707,6 @@
     "editor": "Trtnik-2",
     "touched": "20241123"
   },
-  "Mittendorf,_Schubin,_Posen": {
-    "editor": "Trtnik-2",
-    "touched": "20241122"
-  },
   "Mlodocin,_Schubin,_Posen": {
     "editor": "Trtnik-2",
     "touched": "20241122"
@@ -7754,6 +7750,10 @@
   "Pinsk,_Schubin,_Posen": {
     "editor": "Trtnik-2",
     "touched": "20241122"
+  },
+  "Polentowo,_Schubin,_Posen": {
+    "editor": "Kobus-79",
+    "touched": "20261103"
   },
   "Retkowo,_Schubin,_Posen": {
     "editor": "Trtnik-2",
@@ -7826,6 +7826,10 @@
   "Wieszki,_Schubin,_Posen": {
     "editor": "Trtnik-2",
     "touched": "20241122"
+  },
+  "Wladislawo,_Schubin,_Posen": {
+    "editor": "Kobus-79",
+    "touched": "20261103"
   },
   "Wolitz,_Schubin,_Posen": {
     "editor": "Sonczalla-1",
