@@ -247,6 +247,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251113"
   },
+  "Niesłuchy,_Ciechanów,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
   "Nowa_Wieś,_Ciechanów,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251113"
@@ -306,6 +310,10 @@
   "Przywilcz,_Ciechanów,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251113"
+  },
+  "Pszczółki_Górne,_Ciechanów,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Radomka,_Ciechanów,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
@@ -1623,6 +1631,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251107"
   },
+  "Glinki-Rafały,_Maków,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
   "Gołoniwy,_Maków,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251107"
@@ -2454,6 +2466,10 @@
   "Pomiechowo,_Nowy_Dwór,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251107"
+  },
+  "Popowo_Borowe,_Nowy_Dwór,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Sady,_Nowy_Dwór,_Masovian,_Poland": {
     "editor": "Bartel-894",
@@ -3498,6 +3514,10 @@
   "Okrzeszyn,_Piaseczno,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251112"
+  },
+  "Opacz,_Piaseczno,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Piaseczno,_Piaseczno,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
@@ -5203,9 +5223,17 @@
     "editor": "Sonczalla-1",
     "touched": "20251115"
   },
+  "Bielany,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
   "Borza-Strumiany,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251115"
+  },
+  "Brodowo-Bąboły,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Bylice,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
@@ -5227,6 +5255,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251115"
   },
+  "Dzierżenin,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
   "Gąsiorowo,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251115"
@@ -5238,6 +5270,18 @@
   "Gnaty-Lewiski,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251115"
+  },
+  "Gnaty-Wieśniany,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
+  "Godacze,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
+  "Górki-Baćki,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Gostkowo,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
@@ -5287,6 +5331,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251115"
   },
+  "Mieszki-Leśniki,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
   "Niestępowo_Włościańskie,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251115"
@@ -5298,6 +5346,10 @@
   "Nowe_Przewodowo,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251115"
+  },
+  "Obręb,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Olszak,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
@@ -5339,6 +5391,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251115"
   },
+  "Skoroszki,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
   "Słończewo,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251115"
@@ -5350,6 +5406,10 @@
   "Szyszki,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251115"
+  },
+  "Świercze-Siółki,_Pułtusk,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Winnica,_Pułtusk,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
@@ -5726,6 +5786,10 @@
   "Paprotnia,_Siedlce,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251120"
+  },
+  "Pieróg,_Siedlce,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Podnieśno,_Siedlce,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
@@ -6919,6 +6983,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251121"
   },
+  "Chojeczno-Cesarze,_Węgrów,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
+  },
   "Czerwonka,_Węgrów,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251121"
@@ -7046,6 +7114,10 @@
   "Starawieś,_Węgrów,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251121"
+  },
+  "Stoczek,_Węgrów,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261106"
   },
   "Świdno,_Węgrów,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
