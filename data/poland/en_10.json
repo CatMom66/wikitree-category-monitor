@@ -39,6 +39,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251107"
   },
+  "Ocieść,_Białobrzegi,_Masovian,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20261111"
+  },
   "Piekarty,_Białobrzegi,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251107"
@@ -62,6 +66,10 @@
   "Wyśmierzyce,_Białobrzegi,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251107"
+  },
+  "Żydy,_Białobrzegi,_Masovian,_Poland": {
+    "editor": "Sonczalla-1",
+    "touched": "20261111"
   },
   "Ciechanów_County,_Masovian_Voivodeship": {
     "editor": "Sonczalla-1",
@@ -1051,6 +1059,10 @@
     "editor": "Sonczalla-1",
     "touched": "20251107"
   },
+  "Pniewy,_Grójec,_Masovian,_Poland": {
+    "editor": "Kobus-79",
+    "touched": "20261112"
+  },
   "Przęsławice,_Grójec,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251107"
@@ -1826,6 +1838,14 @@
   "Zwierzyniec,_Maków,_Masovian,_Poland": {
     "editor": "Sonczalla-1",
     "touched": "20251107"
+  },
+  "Cmentarz_Żydowski,_Warszawa,_Mazowieckie": {
+    "editor": "Sonczalla-1",
+    "touched": "20260314"
+  },
+  "Świątynia_Opatrzności_Bożej,_Warszawa,_Mazowieckie": {
+    "editor": "Sonczalla-1",
+    "touched": "20261022"
   },
   "Mińsk_County,_Masovian_Voivodeship": {
     "editor": "Sonczalla-1",
